@@ -1,11 +1,29 @@
 {
   "name": "graphql",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "egg-bin dev",
+    "debug": "egg-bin debug",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "egg": "^2.22.2",
+    "egg-bin": "^4.13.0"
+  },
+  "dependencies": {
+    "egg-graphql": "^2.6.0",
+    "egg-mongoose": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvfe/graphql-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lvfe/graphql-test/issues"
+  },
+  "homepage": "https://github.com/lvfe/graphql-test#readme",
+  "description": ""
 }

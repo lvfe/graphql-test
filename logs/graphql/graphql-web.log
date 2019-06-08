@@ -1,0 +1,214 @@
+2019-06-08 09:28:20,343 ERROR 17888 [-/::1/-/12ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\lenovo\graphql\node_modules\egg\lib\application.js:257:15)
+    at Object.get cookies [as cookies] (C:\Users\lenovo\graphql\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\lenovo\graphql\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 17888
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 09:28:21,746 ERROR 17888 [-/::1/-/46ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\lenovo\graphql\node_modules\egg\lib\application.js:257:15)
+    at Object.get cookies [as cookies] (C:\Users\lenovo\graphql\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\lenovo\graphql\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 17888
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 09:34:43,731 ERROR 17888 [-/::1/-/0ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\lenovo\graphql\node_modules\egg\lib\application.js:257:15)
+    at Object.get cookies [as cookies] (C:\Users\lenovo\graphql\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\lenovo\graphql\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 17888
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 09:34:45,948 ERROR 17888 [-/::1/-/11ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\lenovo\graphql\node_modules\egg\lib\application.js:257:15)
+    at Object.get cookies [as cookies] (C:\Users\lenovo\graphql\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:86:33)
+    at Object.ensureCsrfSecret (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:97:13)
+    at csrf (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\lenovo\graphql\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 17888
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:31:34,751 WARN 10208 [-/::1/-/46ms POST /graphql?] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-06-08 10:31:34,756 WARN 10208 [-/::1/-/50ms POST /graphql?] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\Users\lenovo\graphql\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\lenovo\graphql\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\Users\lenovo\graphql\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (C:\Users\lenovo\graphql\node_modules\koa-bodyparser\index.js:86:11)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: "invalid csrf token"
+pid: 10208
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:31:34,768 WARN 10208 [-/::1/-/1ms POST /graphql?] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-06-08 10:31:34,769 WARN 10208 [-/::1/-/2ms POST /graphql?] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (C:\Users\lenovo\graphql\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\Users\lenovo\graphql\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\lenovo\graphql\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\Users\lenovo\graphql\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (C:\Users\lenovo\graphql\node_modules\koa-bodyparser\index.js:86:11)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: "invalid csrf token"
+pid: 10208
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:33:16,555 ERROR 16032 [-/::1/-/55ms POST /graphql?] nodejs.Error: "Query" defined in resolvers, but not in schema
+Error: "Query" defined in resolvers, but not in schema
+
+pid: 16032
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:33:16,565 ERROR 16032 [-/::1/-/3ms POST /graphql?] nodejs.Error: "Query" defined in resolvers, but not in schema
+Error: "Query" defined in resolvers, but not in schema
+
+pid: 16032
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:36:14,180 ERROR 15524 [-/::1/-/72ms POST /graphql?] nodejs.GraphQLError: Syntax Error: Expected :, found {
+    at syntaxError (C:\Users\lenovo\graphql\node_modules\graphql\error\syntaxError.js:24:10)
+    at expect (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1299:32)
+    at parseFieldDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:811:3)
+    at many (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1348:16)
+    at parseFieldsDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:799:50)
+    at parseObjectTypeDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:757:16)
+    at parseTypeSystemDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:663:16)
+    at parseDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:143:16)
+    at parseDocument (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:110:22)
+    at Object.parse (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\generate\buildSchemaFromTypeDefinitions.js:20:33)
+    at makeExecutableSchema (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\makeExecutableSchema.js:27:29)
+    at Application.get (C:\Users\lenovo\graphql\node_modules\egg-graphql\lib\load_schema.js:72:31)
+    at C:\Users\lenovo\graphql\node_modules\egg-graphql\app\middleware\graphql.js:60:21
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+message: "Syntax Error: Expected :, found {"
+locations: [{"line":2,"column":18}]
+path: undefined
+pid: 15524
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:36:14,205 ERROR 15524 [-/::1/-/2ms POST /graphql?] nodejs.GraphQLError: Syntax Error: Expected :, found {
+    at syntaxError (C:\Users\lenovo\graphql\node_modules\graphql\error\syntaxError.js:24:10)
+    at expect (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1299:32)
+    at parseFieldDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:811:3)
+    at many (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1348:16)
+    at parseFieldsDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:799:50)
+    at parseObjectTypeDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:757:16)
+    at parseTypeSystemDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:663:16)
+    at parseDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:143:16)
+    at parseDocument (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:110:22)
+    at Object.parse (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\generate\buildSchemaFromTypeDefinitions.js:20:33)
+    at makeExecutableSchema (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\makeExecutableSchema.js:27:29)
+    at Application.get (C:\Users\lenovo\graphql\node_modules\egg-graphql\lib\load_schema.js:72:31)
+    at C:\Users\lenovo\graphql\node_modules\egg-graphql\app\middleware\graphql.js:60:21
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+message: "Syntax Error: Expected :, found {"
+locations: [{"line":2,"column":18}]
+path: undefined
+pid: 15524
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:37:50,167 ERROR 12768 [-/::1/-/55ms POST /graphql?] nodejs.Error: "Query" defined in resolvers, but not in schema
+Error: "Query" defined in resolvers, but not in schema
+
+pid: 12768
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 10:37:50,177 ERROR 12768 [-/::1/-/3ms POST /graphql?] nodejs.Error: "Query" defined in resolvers, but not in schema
+Error: "Query" defined in resolvers, but not in schema
+
+pid: 12768
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 11:43:08,239 ERROR 9044 [-/::1/-/41ms POST /graphql?] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+    at syntaxError (C:\Users\lenovo\graphql\node_modules\graphql\error\syntaxError.js:24:10)
+    at expect (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1299:32)
+    at parseName (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:92:15)
+    at parseInputValueDef (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:842:14)
+    at many (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1348:16)
+    at parseArgumentDefs (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:832:10)
+    at parseFieldDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:810:14)
+    at many (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1350:16)
+    at parseFieldsDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:799:50)
+    at parseObjectTypeDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:757:16)
+    at parseTypeSystemDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:663:16)
+    at parseDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:143:16)
+    at parseDocument (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:110:22)
+    at Object.parse (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\generate\buildSchemaFromTypeDefinitions.js:20:33)
+    at makeExecutableSchema (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\makeExecutableSchema.js:27:29)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":3,"column":11}]
+path: undefined
+pid: 9044
+hostname: DESKTOP-7GV4RCT
+
+2019-06-08 11:43:08,250 ERROR 9044 [-/::1/-/1ms POST /graphql?] nodejs.GraphQLError: Syntax Error: Expected Name, found )
+    at syntaxError (C:\Users\lenovo\graphql\node_modules\graphql\error\syntaxError.js:24:10)
+    at expect (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1299:32)
+    at parseName (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:92:15)
+    at parseInputValueDef (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:842:14)
+    at many (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1348:16)
+    at parseArgumentDefs (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:832:10)
+    at parseFieldDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:810:14)
+    at many (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1350:16)
+    at parseFieldsDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:799:50)
+    at parseObjectTypeDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:757:16)
+    at parseTypeSystemDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:663:16)
+    at parseDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:143:16)
+    at parseDocument (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:110:22)
+    at Object.parse (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\generate\buildSchemaFromTypeDefinitions.js:20:33)
+    at makeExecutableSchema (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\makeExecutableSchema.js:27:29)
+message: "Syntax Error: Expected Name, found )"
+locations: [{"line":3,"column":11}]
+path: undefined
+pid: 9044
+hostname: DESKTOP-7GV4RCT
+

@@ -1,0 +1,1229 @@
+2019-06-08 09:28:12,233 INFO 17888 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 09:28:12,295 INFO 17888 [egg-multipart] stream mode enable
+2019-06-08 09:28:12,470 INFO 17888 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 09:28:12,486 INFO 17888 [egg-security] use csrf middleware
+2019-06-08 09:28:12,486 INFO 17888 [egg-security] use methodnoallow middleware
+2019-06-08 09:28:12,486 INFO 17888 [egg-security] use noopen middleware
+2019-06-08 09:28:12,486 INFO 17888 [egg-security] use nosniff middleware
+2019-06-08 09:28:12,486 INFO 17888 [egg-security] use xssProtection middleware
+2019-06-08 09:28:12,486 INFO 17888 [egg-security] use xframe middleware
+2019-06-08 09:28:12,501 INFO 17888 [egg-security] use dta middleware
+2019-06-08 09:28:12,501 INFO 17888 [egg-security] compose 7 middlewares into one security middleware
+2019-06-08 09:28:12,517 INFO 17888 [egg:core] dump config after load, 16ms
+2019-06-08 09:28:12,532 INFO 17888 [egg-watcher:application] watcher start success
+2019-06-08 09:28:12,564 INFO 17888 [egg:core] dump config after ready, 32ms
+2019-06-08 09:35:46,681 INFO 16620 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 09:35:46,743 INFO 16620 [egg-multipart] stream mode enable
+2019-06-08 09:35:46,971 INFO 16620 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 09:35:46,971 INFO 16620 [egg-security] use csrf middleware
+2019-06-08 09:35:46,986 INFO 16620 [egg-security] use methodnoallow middleware
+2019-06-08 09:35:46,986 INFO 16620 [egg-security] use noopen middleware
+2019-06-08 09:35:46,986 INFO 16620 [egg-security] use nosniff middleware
+2019-06-08 09:35:46,986 INFO 16620 [egg-security] use xssProtection middleware
+2019-06-08 09:35:46,986 INFO 16620 [egg-security] use xframe middleware
+2019-06-08 09:35:46,986 INFO 16620 [egg-security] use dta middleware
+2019-06-08 09:35:46,986 INFO 16620 [egg-security] compose 7 middlewares into one security middleware
+2019-06-08 09:35:47,025 INFO 16620 [egg:core] dump config after load, 15ms
+2019-06-08 09:35:47,059 INFO 16620 [egg-watcher:application] watcher start success
+2019-06-08 09:35:47,072 INFO 16620 [egg:core] dump config after ready, 10ms
+2019-06-08 10:31:14,506 INFO 10208 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:31:14,565 INFO 10208 [egg-multipart] stream mode enable
+2019-06-08 10:31:16,071 INFO 10208 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:31:17,236 INFO 10208 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:31:17,247 INFO 10208 [egg-security] use csrf middleware
+2019-06-08 10:31:17,252 INFO 10208 [egg-security] use methodnoallow middleware
+2019-06-08 10:31:17,255 INFO 10208 [egg-security] use noopen middleware
+2019-06-08 10:31:17,259 INFO 10208 [egg-security] use nosniff middleware
+2019-06-08 10:31:17,262 INFO 10208 [egg-security] use xssProtection middleware
+2019-06-08 10:31:17,264 INFO 10208 [egg-security] use xframe middleware
+2019-06-08 10:31:17,267 INFO 10208 [egg-security] use dta middleware
+2019-06-08 10:31:17,267 INFO 10208 [egg-security] compose 7 middlewares into one security middleware
+2019-06-08 10:31:17,305 INFO 10208 [egg:core] dump config after load, 27ms
+2019-06-08 10:31:17,313 INFO 10208 [egg-mongoose] starting...
+2019-06-08 10:31:17,406 INFO 10208 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:31:17,410 INFO 10208 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:31:17,429 INFO 10208 [egg-watcher:application] watcher start success
+2019-06-08 10:31:17,458 INFO 10208 [egg:core] dump config after ready, 27ms
+2019-06-08 10:33:04,845 INFO 16032 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:33:04,940 INFO 16032 [egg-multipart] stream mode enable
+2019-06-08 10:33:06,460 INFO 16032 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:33:07,598 INFO 16032 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:33:07,606 INFO 16032 [egg-security] use methodnoallow middleware
+2019-06-08 10:33:07,608 INFO 16032 [egg-security] use noopen middleware
+2019-06-08 10:33:07,612 INFO 16032 [egg-security] use nosniff middleware
+2019-06-08 10:33:07,616 INFO 16032 [egg-security] use xssProtection middleware
+2019-06-08 10:33:07,618 INFO 16032 [egg-security] use xframe middleware
+2019-06-08 10:33:07,620 INFO 16032 [egg-security] use dta middleware
+2019-06-08 10:33:07,620 INFO 16032 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:33:07,658 INFO 16032 [egg:core] dump config after load, 23ms
+2019-06-08 10:33:07,665 INFO 16032 [egg-mongoose] starting...
+2019-06-08 10:33:07,733 INFO 16032 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:33:07,734 INFO 16032 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:33:07,738 INFO 16032 [egg-watcher:application] watcher start success
+2019-06-08 10:33:07,765 INFO 16032 [egg:core] dump config after ready, 24ms
+2019-06-08 10:33:59,838 INFO 15900 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:33:59,902 INFO 15900 [egg-multipart] stream mode enable
+2019-06-08 10:34:01,437 INFO 15900 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:34:02,777 INFO 15900 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:34:02,786 INFO 15900 [egg-security] use methodnoallow middleware
+2019-06-08 10:34:02,789 INFO 15900 [egg-security] use noopen middleware
+2019-06-08 10:34:02,794 INFO 15900 [egg-security] use nosniff middleware
+2019-06-08 10:34:02,797 INFO 15900 [egg-security] use xssProtection middleware
+2019-06-08 10:34:02,799 INFO 15900 [egg-security] use xframe middleware
+2019-06-08 10:34:02,801 INFO 15900 [egg-security] use dta middleware
+2019-06-08 10:34:02,801 INFO 15900 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:34:02,845 INFO 15900 [egg:core] dump config after load, 30ms
+2019-06-08 10:34:02,857 INFO 15900 [egg-mongoose] starting...
+2019-06-08 10:34:02,970 INFO 15900 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:34:02,978 INFO 15900 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:34:02,993 INFO 15900 [egg-watcher:application] watcher start success
+2019-06-08 10:34:03,048 INFO 15900 [egg:core] dump config after ready, 43ms
+2019-06-08 10:35:59,535 INFO 15768 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:35:59,724 INFO 15768 [egg-multipart] stream mode enable
+2019-06-08 10:36:01,833 INFO 15768 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:36:03,234 INFO 15768 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:36:03,245 INFO 15768 [egg-security] use methodnoallow middleware
+2019-06-08 10:36:03,249 INFO 15768 [egg-security] use noopen middleware
+2019-06-08 10:36:03,253 INFO 15768 [egg-security] use nosniff middleware
+2019-06-08 10:36:03,257 INFO 15768 [egg-security] use xssProtection middleware
+2019-06-08 10:36:03,260 INFO 15768 [egg-security] use xframe middleware
+2019-06-08 10:36:03,262 INFO 15768 [egg-security] use dta middleware
+2019-06-08 10:36:03,262 INFO 15768 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:36:03,352 INFO 15768 [egg:core] dump config after load, 65ms
+2019-06-08 10:36:03,360 INFO 15768 [egg-mongoose] starting...
+2019-06-08 10:36:03,460 INFO 15768 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:36:03,463 INFO 15768 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:36:03,472 INFO 15768 [egg-watcher:application] watcher start success
+2019-06-08 10:36:03,542 INFO 15768 [egg:core] dump config after ready, 48ms
+2019-06-08 10:36:08,832 INFO 15524 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:36:08,889 INFO 15524 [egg-multipart] stream mode enable
+2019-06-08 10:36:10,561 INFO 15524 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:36:12,205 INFO 15524 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:36:12,215 INFO 15524 [egg-security] use methodnoallow middleware
+2019-06-08 10:36:12,218 INFO 15524 [egg-security] use noopen middleware
+2019-06-08 10:36:12,222 INFO 15524 [egg-security] use nosniff middleware
+2019-06-08 10:36:12,225 INFO 15524 [egg-security] use xssProtection middleware
+2019-06-08 10:36:12,228 INFO 15524 [egg-security] use xframe middleware
+2019-06-08 10:36:12,230 INFO 15524 [egg-security] use dta middleware
+2019-06-08 10:36:12,230 INFO 15524 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:36:12,290 INFO 15524 [egg:core] dump config after load, 34ms
+2019-06-08 10:36:12,299 INFO 15524 [egg-mongoose] starting...
+2019-06-08 10:36:12,373 INFO 15524 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:36:12,377 INFO 15524 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:36:12,387 INFO 15524 [egg-watcher:application] watcher start success
+2019-06-08 10:36:12,446 INFO 15524 [egg:core] dump config after ready, 51ms
+2019-06-08 10:36:40,798 INFO 3220 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:36:40,856 INFO 3220 [egg-multipart] stream mode enable
+2019-06-08 10:36:42,533 INFO 3220 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:36:43,646 INFO 3220 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:36:43,655 INFO 3220 [egg-security] use methodnoallow middleware
+2019-06-08 10:36:43,658 INFO 3220 [egg-security] use noopen middleware
+2019-06-08 10:36:43,662 INFO 3220 [egg-security] use nosniff middleware
+2019-06-08 10:36:43,666 INFO 3220 [egg-security] use xssProtection middleware
+2019-06-08 10:36:43,670 INFO 3220 [egg-security] use xframe middleware
+2019-06-08 10:36:43,672 INFO 3220 [egg-security] use dta middleware
+2019-06-08 10:36:43,672 INFO 3220 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:36:43,717 INFO 3220 [egg:core] dump config after load, 27ms
+2019-06-08 10:36:43,723 INFO 3220 [egg-mongoose] starting...
+2019-06-08 10:36:43,797 INFO 3220 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:36:43,801 INFO 3220 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:36:43,808 INFO 3220 [egg-watcher:application] watcher start success
+2019-06-08 10:36:43,856 INFO 3220 [egg:core] dump config after ready, 42ms
+2019-06-08 10:37:34,498 INFO 14840 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:37:34,631 INFO 14840 [egg-multipart] stream mode enable
+2019-06-08 10:37:36,806 INFO 14840 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:37:37,986 INFO 14840 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:37:37,998 INFO 14840 [egg-security] use methodnoallow middleware
+2019-06-08 10:37:38,000 INFO 14840 [egg-security] use noopen middleware
+2019-06-08 10:37:38,004 INFO 14840 [egg-security] use nosniff middleware
+2019-06-08 10:37:38,007 INFO 14840 [egg-security] use xssProtection middleware
+2019-06-08 10:37:38,010 INFO 14840 [egg-security] use xframe middleware
+2019-06-08 10:37:38,012 INFO 14840 [egg-security] use dta middleware
+2019-06-08 10:37:38,012 INFO 14840 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:37:38,068 INFO 14840 [egg:core] dump config after load, 44ms
+2019-06-08 10:37:38,075 INFO 14840 [egg-mongoose] starting...
+2019-06-08 10:37:38,159 INFO 14840 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:37:38,163 INFO 14840 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:37:38,171 INFO 14840 [egg-watcher:application] watcher start success
+2019-06-08 10:37:38,205 INFO 14840 [egg:core] dump config after ready, 30ms
+2019-06-08 10:37:41,968 INFO 12768 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:37:42,043 INFO 12768 [egg-multipart] stream mode enable
+2019-06-08 10:37:43,406 INFO 12768 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:37:44,398 INFO 12768 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:37:44,405 INFO 12768 [egg-security] use methodnoallow middleware
+2019-06-08 10:37:44,407 INFO 12768 [egg-security] use noopen middleware
+2019-06-08 10:37:44,411 INFO 12768 [egg-security] use nosniff middleware
+2019-06-08 10:37:44,413 INFO 12768 [egg-security] use xssProtection middleware
+2019-06-08 10:37:44,415 INFO 12768 [egg-security] use xframe middleware
+2019-06-08 10:37:44,416 INFO 12768 [egg-security] use dta middleware
+2019-06-08 10:37:44,416 INFO 12768 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:37:44,446 INFO 12768 [egg:core] dump config after load, 20ms
+2019-06-08 10:37:44,452 INFO 12768 [egg-mongoose] starting...
+2019-06-08 10:37:44,493 INFO 12768 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:37:44,495 INFO 12768 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:37:44,498 INFO 12768 [egg-watcher:application] watcher start success
+2019-06-08 10:37:44,529 INFO 12768 [egg:core] dump config after ready, 24ms
+2019-06-08 10:38:46,572 INFO 17664 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:38:46,633 INFO 17664 [egg-multipart] stream mode enable
+2019-06-08 10:38:48,103 INFO 17664 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:38:49,277 INFO 17664 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:38:49,290 INFO 17664 [egg-security] use methodnoallow middleware
+2019-06-08 10:38:49,293 INFO 17664 [egg-security] use noopen middleware
+2019-06-08 10:38:49,299 INFO 17664 [egg-security] use nosniff middleware
+2019-06-08 10:38:49,302 INFO 17664 [egg-security] use xssProtection middleware
+2019-06-08 10:38:49,305 INFO 17664 [egg-security] use xframe middleware
+2019-06-08 10:38:49,311 INFO 17664 [egg-security] use dta middleware
+2019-06-08 10:38:49,311 INFO 17664 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:38:49,380 INFO 17664 [egg:core] dump config after load, 47ms
+2019-06-08 10:38:49,390 INFO 17664 [egg-mongoose] starting...
+2019-06-08 10:38:49,494 INFO 17664 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:38:49,501 INFO 17664 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:38:49,521 INFO 17664 [egg-watcher:application] watcher start success
+2019-06-08 10:38:49,604 INFO 17664 [egg:core] dump config after ready, 67ms
+2019-06-08 10:38:53,838 INFO 1916 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:38:53,892 INFO 1916 [egg-multipart] stream mode enable
+2019-06-08 10:38:55,494 INFO 1916 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:38:56,788 INFO 1916 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:38:56,797 INFO 1916 [egg-security] use methodnoallow middleware
+2019-06-08 10:38:56,800 INFO 1916 [egg-security] use noopen middleware
+2019-06-08 10:38:56,808 INFO 1916 [egg-security] use nosniff middleware
+2019-06-08 10:38:56,810 INFO 1916 [egg-security] use xssProtection middleware
+2019-06-08 10:38:56,813 INFO 1916 [egg-security] use xframe middleware
+2019-06-08 10:38:56,815 INFO 1916 [egg-security] use dta middleware
+2019-06-08 10:38:56,815 INFO 1916 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:38:56,855 INFO 1916 [egg:core] dump config after load, 25ms
+2019-06-08 10:38:56,864 INFO 1916 [egg-mongoose] starting...
+2019-06-08 10:38:56,939 INFO 1916 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:38:56,941 INFO 1916 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:38:56,956 INFO 1916 [egg-watcher:application] watcher start success
+2019-06-08 10:38:57,022 INFO 1916 [egg:core] dump config after ready, 48ms
+2019-06-08 10:39:58,150 INFO 17092 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:39:58,211 INFO 17092 [egg-multipart] stream mode enable
+2019-06-08 10:39:59,963 INFO 17092 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:40:01,350 INFO 17092 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:40:01,361 INFO 17092 [egg-security] use methodnoallow middleware
+2019-06-08 10:40:01,363 INFO 17092 [egg-security] use noopen middleware
+2019-06-08 10:40:01,368 INFO 17092 [egg-security] use nosniff middleware
+2019-06-08 10:40:01,370 INFO 17092 [egg-security] use xssProtection middleware
+2019-06-08 10:40:01,372 INFO 17092 [egg-security] use xframe middleware
+2019-06-08 10:40:01,375 INFO 17092 [egg-security] use dta middleware
+2019-06-08 10:40:01,375 INFO 17092 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:40:01,419 INFO 17092 [egg:core] dump config after load, 31ms
+2019-06-08 10:40:01,426 INFO 17092 [egg-mongoose] starting...
+2019-06-08 10:40:01,502 INFO 17092 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:40:01,505 INFO 17092 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:40:01,513 INFO 17092 [egg-watcher:application] watcher start success
+2019-06-08 10:40:01,555 INFO 17092 [egg:core] dump config after ready, 35ms
+2019-06-08 10:41:41,346 INFO 10848 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:41:41,445 INFO 10848 [egg-multipart] stream mode enable
+2019-06-08 10:41:43,310 INFO 10848 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:41:44,662 INFO 10848 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:41:44,676 INFO 10848 [egg-security] use methodnoallow middleware
+2019-06-08 10:41:44,680 INFO 10848 [egg-security] use noopen middleware
+2019-06-08 10:41:44,686 INFO 10848 [egg-security] use nosniff middleware
+2019-06-08 10:41:44,689 INFO 10848 [egg-security] use xssProtection middleware
+2019-06-08 10:41:44,691 INFO 10848 [egg-security] use xframe middleware
+2019-06-08 10:41:44,695 INFO 10848 [egg-security] use dta middleware
+2019-06-08 10:41:44,695 INFO 10848 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:41:44,751 INFO 10848 [egg:core] dump config after load, 37ms
+2019-06-08 10:41:44,761 INFO 10848 [egg-mongoose] starting...
+2019-06-08 10:41:44,836 INFO 10848 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:41:44,839 INFO 10848 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:41:44,850 INFO 10848 [egg-watcher:application] watcher start success
+2019-06-08 10:41:44,920 INFO 10848 [egg:core] dump config after ready, 63ms
+2019-06-08 10:41:51,563 INFO 9136 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:41:51,657 INFO 9136 [egg-multipart] stream mode enable
+2019-06-08 10:41:53,582 INFO 9136 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:41:54,738 INFO 9136 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:41:54,748 INFO 9136 [egg-security] use methodnoallow middleware
+2019-06-08 10:41:54,750 INFO 9136 [egg-security] use noopen middleware
+2019-06-08 10:41:54,754 INFO 9136 [egg-security] use nosniff middleware
+2019-06-08 10:41:54,756 INFO 9136 [egg-security] use xssProtection middleware
+2019-06-08 10:41:54,758 INFO 9136 [egg-security] use xframe middleware
+2019-06-08 10:41:54,761 INFO 9136 [egg-security] use dta middleware
+2019-06-08 10:41:54,761 INFO 9136 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:41:54,814 INFO 9136 [egg:core] dump config after load, 40ms
+2019-06-08 10:41:54,826 INFO 9136 [egg-mongoose] starting...
+2019-06-08 10:41:52,553 INFO 16484 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:41:52,648 INFO 16484 [egg-multipart] stream mode enable
+2019-06-08 10:41:54,649 INFO 16484 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:41:56,018 INFO 16484 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:41:56,065 INFO 16484 [egg-security] use methodnoallow middleware
+2019-06-08 10:41:56,068 INFO 16484 [egg-security] use noopen middleware
+2019-06-08 10:41:56,075 INFO 16484 [egg-security] use nosniff middleware
+2019-06-08 10:41:56,078 INFO 16484 [egg-security] use xssProtection middleware
+2019-06-08 10:41:56,081 INFO 16484 [egg-security] use xframe middleware
+2019-06-08 10:41:56,084 INFO 16484 [egg-security] use dta middleware
+2019-06-08 10:41:56,084 INFO 16484 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:41:56,195 INFO 16484 [egg:core] dump config after load, 69ms
+2019-06-08 10:41:56,208 INFO 16484 [egg-mongoose] starting...
+2019-06-08 10:41:56,324 INFO 16484 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:41:56,327 INFO 16484 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:41:56,335 INFO 16484 [egg-watcher:application] watcher start success
+2019-06-08 10:41:56,421 INFO 16484 [egg:core] dump config after ready, 74ms
+2019-06-08 10:42:01,676 INFO 10576 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:42:01,767 INFO 10576 [egg-multipart] stream mode enable
+2019-06-08 10:42:03,815 INFO 10576 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:42:05,062 INFO 10576 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:42:05,073 INFO 10576 [egg-security] use methodnoallow middleware
+2019-06-08 10:42:05,076 INFO 10576 [egg-security] use noopen middleware
+2019-06-08 10:42:05,080 INFO 10576 [egg-security] use nosniff middleware
+2019-06-08 10:42:05,082 INFO 10576 [egg-security] use xssProtection middleware
+2019-06-08 10:42:05,086 INFO 10576 [egg-security] use xframe middleware
+2019-06-08 10:42:05,089 INFO 10576 [egg-security] use dta middleware
+2019-06-08 10:42:05,089 INFO 10576 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:42:05,134 INFO 10576 [egg:core] dump config after load, 32ms
+2019-06-08 10:42:05,141 INFO 10576 [egg-mongoose] starting...
+2019-06-08 10:42:04,150 INFO 5848 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:42:04,280 INFO 5848 [egg-multipart] stream mode enable
+2019-06-08 10:42:06,915 INFO 5848 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:42:08,132 INFO 5848 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:42:08,145 INFO 5848 [egg-security] use methodnoallow middleware
+2019-06-08 10:42:08,149 INFO 5848 [egg-security] use noopen middleware
+2019-06-08 10:42:08,153 INFO 5848 [egg-security] use nosniff middleware
+2019-06-08 10:42:08,155 INFO 5848 [egg-security] use xssProtection middleware
+2019-06-08 10:42:08,157 INFO 5848 [egg-security] use xframe middleware
+2019-06-08 10:42:08,158 INFO 5848 [egg-security] use dta middleware
+2019-06-08 10:42:08,158 INFO 5848 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:42:08,193 INFO 5848 [egg:core] dump config after load, 23ms
+2019-06-08 10:42:08,198 INFO 5848 [egg-mongoose] starting...
+2019-06-08 10:42:08,245 INFO 5848 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:42:08,247 INFO 5848 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:42:08,250 INFO 5848 [egg-watcher:application] watcher start success
+2019-06-08 10:42:08,274 INFO 5848 [egg:core] dump config after ready, 21ms
+2019-06-08 10:42:14,512 INFO 14776 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:42:14,572 INFO 14776 [egg-multipart] stream mode enable
+2019-06-08 10:42:15,820 INFO 14776 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:42:16,844 INFO 14776 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:42:16,856 INFO 14776 [egg-security] use methodnoallow middleware
+2019-06-08 10:42:16,858 INFO 14776 [egg-security] use noopen middleware
+2019-06-08 10:42:16,862 INFO 14776 [egg-security] use nosniff middleware
+2019-06-08 10:42:16,865 INFO 14776 [egg-security] use xssProtection middleware
+2019-06-08 10:42:16,867 INFO 14776 [egg-security] use xframe middleware
+2019-06-08 10:42:16,869 INFO 14776 [egg-security] use dta middleware
+2019-06-08 10:42:16,869 INFO 14776 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:42:16,908 INFO 14776 [egg:core] dump config after load, 26ms
+2019-06-08 10:42:16,916 INFO 14776 [egg-mongoose] starting...
+2019-06-08 10:42:17,003 INFO 14776 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:42:17,006 INFO 14776 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:42:17,038 INFO 14776 [egg-watcher:application] watcher start success
+2019-06-08 10:42:17,077 INFO 14776 [egg:core] dump config after ready, 32ms
+2019-06-08 10:42:21,220 INFO 7836 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:42:21,278 INFO 7836 [egg-multipart] stream mode enable
+2019-06-08 10:42:22,775 INFO 7836 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:42:24,035 INFO 7836 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:42:24,043 INFO 7836 [egg-security] use methodnoallow middleware
+2019-06-08 10:42:24,045 INFO 7836 [egg-security] use noopen middleware
+2019-06-08 10:42:24,065 INFO 7836 [egg-security] use nosniff middleware
+2019-06-08 10:42:24,079 INFO 7836 [egg-security] use xssProtection middleware
+2019-06-08 10:42:24,082 INFO 7836 [egg-security] use xframe middleware
+2019-06-08 10:42:24,084 INFO 7836 [egg-security] use dta middleware
+2019-06-08 10:42:24,084 INFO 7836 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:42:24,153 INFO 7836 [egg:core] dump config after load, 49ms
+2019-06-08 10:42:24,163 INFO 7836 [egg-mongoose] starting...
+2019-06-08 10:42:24,232 INFO 7836 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:42:24,234 INFO 7836 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:42:24,241 INFO 7836 [egg-watcher:application] watcher start success
+2019-06-08 10:42:24,282 INFO 7836 [egg:core] dump config after ready, 34ms
+2019-06-08 10:42:48,971 INFO 6776 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:42:49,062 INFO 6776 [egg-multipart] stream mode enable
+2019-06-08 10:42:51,453 INFO 6776 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:42:52,805 INFO 6776 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:42:52,821 INFO 6776 [egg-security] use methodnoallow middleware
+2019-06-08 10:42:52,829 INFO 6776 [egg-security] use noopen middleware
+2019-06-08 10:42:52,836 INFO 6776 [egg-security] use nosniff middleware
+2019-06-08 10:42:52,839 INFO 6776 [egg-security] use xssProtection middleware
+2019-06-08 10:42:52,841 INFO 6776 [egg-security] use xframe middleware
+2019-06-08 10:42:52,843 INFO 6776 [egg-security] use dta middleware
+2019-06-08 10:42:52,843 INFO 6776 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:42:52,937 INFO 6776 [egg:core] dump config after load, 72ms
+2019-06-08 10:42:52,967 INFO 6776 [egg-mongoose] starting...
+2019-06-08 10:42:53,057 INFO 6776 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:42:53,063 INFO 6776 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:42:53,075 INFO 6776 [egg-watcher:application] watcher start success
+2019-06-08 10:42:53,133 INFO 6776 [egg:core] dump config after ready, 52ms
+2019-06-08 10:42:58,796 INFO 10800 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:42:58,884 INFO 10800 [egg-multipart] stream mode enable
+2019-06-08 10:43:00,778 INFO 10800 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:43:02,169 INFO 10800 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:43:02,179 INFO 10800 [egg-security] use methodnoallow middleware
+2019-06-08 10:43:02,182 INFO 10800 [egg-security] use noopen middleware
+2019-06-08 10:43:02,194 INFO 10800 [egg-security] use nosniff middleware
+2019-06-08 10:43:02,197 INFO 10800 [egg-security] use xssProtection middleware
+2019-06-08 10:43:02,200 INFO 10800 [egg-security] use xframe middleware
+2019-06-08 10:43:02,202 INFO 10800 [egg-security] use dta middleware
+2019-06-08 10:43:02,202 INFO 10800 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:43:02,263 INFO 10800 [egg:core] dump config after load, 46ms
+2019-06-08 10:43:02,282 INFO 10800 [egg-mongoose] starting...
+2019-06-08 10:43:02,365 INFO 10800 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:43:02,370 INFO 10800 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:43:02,378 INFO 10800 [egg-watcher:application] watcher start success
+2019-06-08 10:43:02,408 INFO 10800 [egg:core] dump config after ready, 26ms
+2019-06-08 10:43:42,749 INFO 15564 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:43:42,834 INFO 15564 [egg-multipart] stream mode enable
+2019-06-08 10:43:44,210 INFO 15564 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:43:45,185 INFO 15564 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:43:45,191 INFO 15564 [egg-security] use methodnoallow middleware
+2019-06-08 10:43:45,193 INFO 15564 [egg-security] use noopen middleware
+2019-06-08 10:43:45,196 INFO 15564 [egg-security] use nosniff middleware
+2019-06-08 10:43:45,198 INFO 15564 [egg-security] use xssProtection middleware
+2019-06-08 10:43:45,201 INFO 15564 [egg-security] use xframe middleware
+2019-06-08 10:43:45,203 INFO 15564 [egg-security] use dta middleware
+2019-06-08 10:43:45,203 INFO 15564 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:43:45,235 INFO 15564 [egg:core] dump config after load, 22ms
+2019-06-08 10:43:45,243 INFO 15564 [egg-mongoose] starting...
+2019-06-08 10:43:45,294 INFO 15564 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:43:45,296 INFO 15564 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:43:45,301 INFO 15564 [egg-watcher:application] watcher start success
+2019-06-08 10:43:45,341 INFO 15564 [egg:core] dump config after ready, 34ms
+2019-06-08 10:43:49,394 INFO 5716 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:43:49,461 INFO 5716 [egg-multipart] stream mode enable
+2019-06-08 10:43:51,152 INFO 5716 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:43:52,154 INFO 5716 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:43:52,159 INFO 5716 [egg-security] use methodnoallow middleware
+2019-06-08 10:43:52,161 INFO 5716 [egg-security] use noopen middleware
+2019-06-08 10:43:52,164 INFO 5716 [egg-security] use nosniff middleware
+2019-06-08 10:43:52,166 INFO 5716 [egg-security] use xssProtection middleware
+2019-06-08 10:43:52,168 INFO 5716 [egg-security] use xframe middleware
+2019-06-08 10:43:52,170 INFO 5716 [egg-security] use dta middleware
+2019-06-08 10:43:52,170 INFO 5716 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:43:52,200 INFO 5716 [egg:core] dump config after load, 19ms
+2019-06-08 10:43:52,205 INFO 5716 [egg-mongoose] starting...
+2019-06-08 10:43:52,256 INFO 5716 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:43:52,258 INFO 5716 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:43:52,262 INFO 5716 [egg-watcher:application] watcher start success
+2019-06-08 10:43:52,285 INFO 5716 [egg:core] dump config after ready, 20ms
+2019-06-08 10:45:08,894 INFO 224 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:45:08,947 INFO 224 [egg-multipart] stream mode enable
+2019-06-08 10:45:10,193 INFO 224 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:45:11,205 INFO 224 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:45:11,214 INFO 224 [egg-security] use methodnoallow middleware
+2019-06-08 10:45:11,217 INFO 224 [egg-security] use noopen middleware
+2019-06-08 10:45:11,221 INFO 224 [egg-security] use nosniff middleware
+2019-06-08 10:45:11,223 INFO 224 [egg-security] use xssProtection middleware
+2019-06-08 10:45:11,225 INFO 224 [egg-security] use xframe middleware
+2019-06-08 10:45:11,228 INFO 224 [egg-security] use dta middleware
+2019-06-08 10:45:11,228 INFO 224 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:45:11,258 INFO 224 [egg:core] dump config after load, 18ms
+2019-06-08 10:45:11,263 INFO 224 [egg-mongoose] starting...
+2019-06-08 10:45:11,316 INFO 224 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:45:11,318 INFO 224 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:45:11,322 INFO 224 [egg-watcher:application] watcher start success
+2019-06-08 10:45:11,347 INFO 224 [egg:core] dump config after ready, 22ms
+2019-06-08 10:45:15,819 INFO 16576 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:45:15,887 INFO 16576 [egg-multipart] stream mode enable
+2019-06-08 10:45:18,584 INFO 16576 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:45:21,001 INFO 16576 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:45:21,011 INFO 16576 [egg-security] use methodnoallow middleware
+2019-06-08 10:45:21,013 INFO 16576 [egg-security] use noopen middleware
+2019-06-08 10:45:21,056 INFO 16576 [egg-security] use nosniff middleware
+2019-06-08 10:45:21,058 INFO 16576 [egg-security] use xssProtection middleware
+2019-06-08 10:45:21,061 INFO 16576 [egg-security] use xframe middleware
+2019-06-08 10:45:21,063 INFO 16576 [egg-security] use dta middleware
+2019-06-08 10:45:21,063 INFO 16576 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:45:21,175 INFO 16576 [egg:core] dump config after load, 93ms
+2019-06-08 10:45:21,188 INFO 16576 [egg-mongoose] starting...
+2019-06-08 10:45:21,290 INFO 16576 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:45:21,292 INFO 16576 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:45:21,310 INFO 16576 [egg-watcher:application] watcher start success
+2019-06-08 10:45:21,485 INFO 16576 [egg:core] dump config after ready, 170ms
+2019-06-08 10:47:18,386 INFO 12864 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:47:18,473 INFO 12864 [egg-multipart] stream mode enable
+2019-06-08 10:47:20,282 INFO 12864 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:47:21,540 INFO 12864 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:47:21,550 INFO 12864 [egg-security] use methodnoallow middleware
+2019-06-08 10:47:21,553 INFO 12864 [egg-security] use noopen middleware
+2019-06-08 10:47:21,556 INFO 12864 [egg-security] use nosniff middleware
+2019-06-08 10:47:21,558 INFO 12864 [egg-security] use xssProtection middleware
+2019-06-08 10:47:21,560 INFO 12864 [egg-security] use xframe middleware
+2019-06-08 10:47:21,563 INFO 12864 [egg-security] use dta middleware
+2019-06-08 10:47:21,563 INFO 12864 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:47:21,594 INFO 12864 [egg:core] dump config after load, 18ms
+2019-06-08 10:47:21,604 INFO 12864 [egg-mongoose] starting...
+2019-06-08 10:47:21,679 INFO 12864 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:47:21,682 INFO 12864 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:47:21,690 INFO 12864 [egg-watcher:application] watcher start success
+2019-06-08 10:47:21,724 INFO 12864 [egg:core] dump config after ready, 29ms
+2019-06-08 10:47:25,814 INFO 16884 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:47:25,902 INFO 16884 [egg-multipart] stream mode enable
+2019-06-08 10:47:27,405 INFO 16884 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:47:28,599 INFO 16884 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:47:28,609 INFO 16884 [egg-security] use methodnoallow middleware
+2019-06-08 10:47:28,611 INFO 16884 [egg-security] use noopen middleware
+2019-06-08 10:47:28,616 INFO 16884 [egg-security] use nosniff middleware
+2019-06-08 10:47:28,619 INFO 16884 [egg-security] use xssProtection middleware
+2019-06-08 10:47:28,622 INFO 16884 [egg-security] use xframe middleware
+2019-06-08 10:47:28,625 INFO 16884 [egg-security] use dta middleware
+2019-06-08 10:47:28,625 INFO 16884 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:47:28,669 INFO 16884 [egg:core] dump config after load, 31ms
+2019-06-08 10:47:28,678 INFO 16884 [egg-mongoose] starting...
+2019-06-08 10:47:28,775 INFO 16884 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:47:28,778 INFO 16884 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:47:28,783 INFO 16884 [egg-watcher:application] watcher start success
+2019-06-08 10:47:28,824 INFO 16884 [egg:core] dump config after ready, 32ms
+2019-06-08 10:48:53,573 INFO 14356 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:48:53,719 INFO 14356 [egg-multipart] stream mode enable
+2019-06-08 10:48:56,663 INFO 14356 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:48:58,198 INFO 14356 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:48:58,254 INFO 14356 [egg-security] use methodnoallow middleware
+2019-06-08 10:48:58,258 INFO 14356 [egg-security] use noopen middleware
+2019-06-08 10:48:58,262 INFO 14356 [egg-security] use nosniff middleware
+2019-06-08 10:48:58,264 INFO 14356 [egg-security] use xssProtection middleware
+2019-06-08 10:48:58,268 INFO 14356 [egg-security] use xframe middleware
+2019-06-08 10:48:58,271 INFO 14356 [egg-security] use dta middleware
+2019-06-08 10:48:58,271 INFO 14356 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:48:58,351 INFO 14356 [egg:core] dump config after load, 67ms
+2019-06-08 10:48:58,358 INFO 14356 [egg-mongoose] starting...
+2019-06-08 10:48:58,463 INFO 14356 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:48:58,465 INFO 14356 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:48:58,480 INFO 14356 [egg-watcher:application] watcher start success
+2019-06-08 10:48:58,542 INFO 14356 [egg:core] dump config after ready, 55ms
+2019-06-08 10:49:04,127 INFO 16708 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:49:04,182 INFO 16708 [egg-multipart] stream mode enable
+2019-06-08 10:49:05,838 INFO 16708 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:49:07,235 INFO 16708 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:49:07,248 INFO 16708 [egg-security] use methodnoallow middleware
+2019-06-08 10:49:07,251 INFO 16708 [egg-security] use noopen middleware
+2019-06-08 10:49:07,254 INFO 16708 [egg-security] use nosniff middleware
+2019-06-08 10:49:07,261 INFO 16708 [egg-security] use xssProtection middleware
+2019-06-08 10:49:07,264 INFO 16708 [egg-security] use xframe middleware
+2019-06-08 10:49:07,266 INFO 16708 [egg-security] use dta middleware
+2019-06-08 10:49:07,266 INFO 16708 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:49:07,314 INFO 16708 [egg:core] dump config after load, 34ms
+2019-06-08 10:49:07,328 INFO 16708 [egg-mongoose] starting...
+2019-06-08 10:49:07,401 INFO 16708 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:49:07,403 INFO 16708 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:49:07,414 INFO 16708 [egg-watcher:application] watcher start success
+2019-06-08 10:49:07,451 INFO 16708 [egg:core] dump config after ready, 30ms
+2019-06-08 10:49:37,513 INFO 7420 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:49:37,562 INFO 7420 [egg-multipart] stream mode enable
+2019-06-08 10:49:38,786 INFO 7420 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:49:39,701 INFO 7420 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:49:39,708 INFO 7420 [egg-security] use methodnoallow middleware
+2019-06-08 10:49:39,711 INFO 7420 [egg-security] use noopen middleware
+2019-06-08 10:49:39,713 INFO 7420 [egg-security] use nosniff middleware
+2019-06-08 10:49:39,715 INFO 7420 [egg-security] use xssProtection middleware
+2019-06-08 10:49:39,717 INFO 7420 [egg-security] use xframe middleware
+2019-06-08 10:49:39,718 INFO 7420 [egg-security] use dta middleware
+2019-06-08 10:49:39,718 INFO 7420 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:49:39,756 INFO 7420 [egg:core] dump config after load, 26ms
+2019-06-08 10:49:39,763 INFO 7420 [egg-mongoose] starting...
+2019-06-08 10:49:39,811 INFO 7420 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:49:39,812 INFO 7420 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:49:39,815 INFO 7420 [egg-watcher:application] watcher start success
+2019-06-08 10:49:39,839 INFO 7420 [egg:core] dump config after ready, 21ms
+2019-06-08 10:50:02,232 INFO 17544 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:50:02,281 INFO 17544 [egg-multipart] stream mode enable
+2019-06-08 10:50:03,481 INFO 17544 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:50:04,426 INFO 17544 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:50:04,431 INFO 17544 [egg-security] use methodnoallow middleware
+2019-06-08 10:50:04,434 INFO 17544 [egg-security] use noopen middleware
+2019-06-08 10:50:04,438 INFO 17544 [egg-security] use nosniff middleware
+2019-06-08 10:50:04,440 INFO 17544 [egg-security] use xssProtection middleware
+2019-06-08 10:50:04,442 INFO 17544 [egg-security] use xframe middleware
+2019-06-08 10:50:04,444 INFO 17544 [egg-security] use dta middleware
+2019-06-08 10:50:04,444 INFO 17544 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:50:04,476 INFO 17544 [egg:core] dump config after load, 24ms
+2019-06-08 10:50:04,482 INFO 17544 [egg-mongoose] starting...
+2019-06-08 10:50:04,528 INFO 17544 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:50:04,530 INFO 17544 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:50:04,535 INFO 17544 [egg-watcher:application] watcher start success
+2019-06-08 10:50:04,559 INFO 17544 [egg:core] dump config after ready, 22ms
+2019-06-08 10:50:57,316 INFO 17184 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:50:57,364 INFO 17184 [egg-multipart] stream mode enable
+2019-06-08 10:50:58,591 INFO 17184 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:50:59,523 INFO 17184 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:50:59,528 INFO 17184 [egg-security] use methodnoallow middleware
+2019-06-08 10:50:59,530 INFO 17184 [egg-security] use noopen middleware
+2019-06-08 10:50:59,534 INFO 17184 [egg-security] use nosniff middleware
+2019-06-08 10:50:59,537 INFO 17184 [egg-security] use xssProtection middleware
+2019-06-08 10:50:59,539 INFO 17184 [egg-security] use xframe middleware
+2019-06-08 10:50:59,541 INFO 17184 [egg-security] use dta middleware
+2019-06-08 10:50:59,541 INFO 17184 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:50:59,569 INFO 17184 [egg:core] dump config after load, 20ms
+2019-06-08 10:50:59,578 INFO 17184 [egg-mongoose] starting...
+2019-06-08 10:50:59,623 INFO 17184 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:50:59,626 INFO 17184 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:50:59,633 INFO 17184 [egg-watcher:application] watcher start success
+2019-06-08 10:50:59,658 INFO 17184 [egg:core] dump config after ready, 20ms
+2019-06-08 10:51:03,048 INFO 15256 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:51:03,107 INFO 15256 [egg-multipart] stream mode enable
+2019-06-08 10:51:04,334 INFO 15256 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:51:05,244 INFO 15256 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:51:05,249 INFO 15256 [egg-security] use methodnoallow middleware
+2019-06-08 10:51:05,251 INFO 15256 [egg-security] use noopen middleware
+2019-06-08 10:51:05,254 INFO 15256 [egg-security] use nosniff middleware
+2019-06-08 10:51:05,256 INFO 15256 [egg-security] use xssProtection middleware
+2019-06-08 10:51:05,257 INFO 15256 [egg-security] use xframe middleware
+2019-06-08 10:51:05,259 INFO 15256 [egg-security] use dta middleware
+2019-06-08 10:51:05,260 INFO 15256 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:51:05,289 INFO 15256 [egg:core] dump config after load, 22ms
+2019-06-08 10:51:05,294 INFO 15256 [egg-mongoose] starting...
+2019-06-08 10:51:05,351 INFO 15256 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:51:05,353 INFO 15256 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:51:05,357 INFO 15256 [egg-watcher:application] watcher start success
+2019-06-08 10:51:05,389 INFO 15256 [egg:core] dump config after ready, 27ms
+2019-06-08 10:51:33,669 INFO 15544 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:51:33,729 INFO 15544 [egg-multipart] stream mode enable
+2019-06-08 10:51:35,374 INFO 15544 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:51:36,625 INFO 15544 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:51:36,634 INFO 15544 [egg-security] use methodnoallow middleware
+2019-06-08 10:51:36,636 INFO 15544 [egg-security] use noopen middleware
+2019-06-08 10:51:36,642 INFO 15544 [egg-security] use nosniff middleware
+2019-06-08 10:51:36,645 INFO 15544 [egg-security] use xssProtection middleware
+2019-06-08 10:51:36,647 INFO 15544 [egg-security] use xframe middleware
+2019-06-08 10:51:36,650 INFO 15544 [egg-security] use dta middleware
+2019-06-08 10:51:36,650 INFO 15544 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:51:36,694 INFO 15544 [egg:core] dump config after load, 30ms
+2019-06-08 10:51:36,757 INFO 15544 [egg-mongoose] starting...
+2019-06-08 10:51:36,856 INFO 15544 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:51:36,858 INFO 15544 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:51:36,864 INFO 15544 [egg-watcher:application] watcher start success
+2019-06-08 10:51:36,923 INFO 15544 [egg:core] dump config after ready, 51ms
+2019-06-08 10:51:42,035 INFO 12048 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:51:42,106 INFO 12048 [egg-multipart] stream mode enable
+2019-06-08 10:51:43,693 INFO 12048 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:51:44,890 INFO 12048 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:51:44,905 INFO 12048 [egg-security] use methodnoallow middleware
+2019-06-08 10:51:44,908 INFO 12048 [egg-security] use noopen middleware
+2019-06-08 10:51:44,912 INFO 12048 [egg-security] use nosniff middleware
+2019-06-08 10:51:44,915 INFO 12048 [egg-security] use xssProtection middleware
+2019-06-08 10:51:44,917 INFO 12048 [egg-security] use xframe middleware
+2019-06-08 10:51:44,920 INFO 12048 [egg-security] use dta middleware
+2019-06-08 10:51:44,920 INFO 12048 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:51:44,981 INFO 12048 [egg:core] dump config after load, 33ms
+2019-06-08 10:51:44,989 INFO 12048 [egg-mongoose] starting...
+2019-06-08 10:51:45,057 INFO 12048 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:51:45,059 INFO 12048 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:51:45,062 INFO 12048 [egg-watcher:application] watcher start success
+2019-06-08 10:51:45,093 INFO 12048 [egg:core] dump config after ready, 27ms
+2019-06-08 10:52:27,099 INFO 1992 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:52:27,150 INFO 1992 [egg-multipart] stream mode enable
+2019-06-08 10:52:28,372 INFO 1992 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:52:29,318 INFO 1992 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:52:29,324 INFO 1992 [egg-security] use methodnoallow middleware
+2019-06-08 10:52:29,327 INFO 1992 [egg-security] use noopen middleware
+2019-06-08 10:52:29,331 INFO 1992 [egg-security] use nosniff middleware
+2019-06-08 10:52:29,334 INFO 1992 [egg-security] use xssProtection middleware
+2019-06-08 10:52:29,335 INFO 1992 [egg-security] use xframe middleware
+2019-06-08 10:52:29,338 INFO 1992 [egg-security] use dta middleware
+2019-06-08 10:52:29,338 INFO 1992 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:52:29,380 INFO 1992 [egg:core] dump config after load, 28ms
+2019-06-08 10:52:29,388 INFO 1992 [egg-mongoose] starting...
+2019-06-08 10:52:29,464 INFO 1992 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:52:29,467 INFO 1992 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:52:29,472 INFO 1992 [egg-watcher:application] watcher start success
+2019-06-08 10:52:29,499 INFO 1992 [egg:core] dump config after ready, 23ms
+2019-06-08 10:52:36,374 INFO 10312 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:52:36,431 INFO 10312 [egg-multipart] stream mode enable
+2019-06-08 10:52:37,670 INFO 10312 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:52:38,622 INFO 10312 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:52:38,631 INFO 10312 [egg-security] use methodnoallow middleware
+2019-06-08 10:52:38,633 INFO 10312 [egg-security] use noopen middleware
+2019-06-08 10:52:38,637 INFO 10312 [egg-security] use nosniff middleware
+2019-06-08 10:52:38,639 INFO 10312 [egg-security] use xssProtection middleware
+2019-06-08 10:52:38,641 INFO 10312 [egg-security] use xframe middleware
+2019-06-08 10:52:38,643 INFO 10312 [egg-security] use dta middleware
+2019-06-08 10:52:38,643 INFO 10312 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:52:38,668 INFO 10312 [egg:core] dump config after load, 17ms
+2019-06-08 10:52:38,673 INFO 10312 [egg-mongoose] starting...
+2019-06-08 10:52:38,717 INFO 10312 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:52:38,718 INFO 10312 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:52:38,721 INFO 10312 [egg-watcher:application] watcher start success
+2019-06-08 10:52:38,750 INFO 10312 [egg:core] dump config after ready, 26ms
+2019-06-08 10:53:33,658 INFO 1176 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:53:33,722 INFO 1176 [egg-multipart] stream mode enable
+2019-06-08 10:53:35,179 INFO 1176 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:53:36,135 INFO 1176 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:53:36,140 INFO 1176 [egg-security] use methodnoallow middleware
+2019-06-08 10:53:36,142 INFO 1176 [egg-security] use noopen middleware
+2019-06-08 10:53:36,145 INFO 1176 [egg-security] use nosniff middleware
+2019-06-08 10:53:36,147 INFO 1176 [egg-security] use xssProtection middleware
+2019-06-08 10:53:36,149 INFO 1176 [egg-security] use xframe middleware
+2019-06-08 10:53:36,150 INFO 1176 [egg-security] use dta middleware
+2019-06-08 10:53:36,150 INFO 1176 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:53:36,184 INFO 1176 [egg:core] dump config after load, 24ms
+2019-06-08 10:53:36,189 INFO 1176 [egg-mongoose] starting...
+2019-06-08 10:53:36,240 INFO 1176 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:53:36,242 INFO 1176 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:53:36,246 INFO 1176 [egg-watcher:application] watcher start success
+2019-06-08 10:53:36,269 INFO 1176 [egg:core] dump config after ready, 20ms
+2019-06-08 10:54:30,859 INFO 16820 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:54:30,927 INFO 16820 [egg-multipart] stream mode enable
+2019-06-08 10:54:32,414 INFO 16820 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:54:33,663 INFO 16820 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:54:33,674 INFO 16820 [egg-security] use methodnoallow middleware
+2019-06-08 10:54:33,677 INFO 16820 [egg-security] use noopen middleware
+2019-06-08 10:54:33,681 INFO 16820 [egg-security] use nosniff middleware
+2019-06-08 10:54:33,684 INFO 16820 [egg-security] use xssProtection middleware
+2019-06-08 10:54:33,687 INFO 16820 [egg-security] use xframe middleware
+2019-06-08 10:54:33,692 INFO 16820 [egg-security] use dta middleware
+2019-06-08 10:54:33,692 INFO 16820 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:54:33,737 INFO 16820 [egg:core] dump config after load, 30ms
+2019-06-08 10:54:33,745 INFO 16820 [egg-mongoose] starting...
+2019-06-08 10:54:33,829 INFO 16820 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:54:33,831 INFO 16820 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:54:33,837 INFO 16820 [egg-watcher:application] watcher start success
+2019-06-08 10:54:33,877 INFO 16820 [egg:core] dump config after ready, 36ms
+2019-06-08 10:54:38,447 INFO 5012 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:54:38,538 INFO 5012 [egg-multipart] stream mode enable
+2019-06-08 10:54:40,140 INFO 5012 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 10:54:41,428 INFO 5012 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:54:41,440 INFO 5012 [egg-security] use methodnoallow middleware
+2019-06-08 10:54:41,443 INFO 5012 [egg-security] use noopen middleware
+2019-06-08 10:54:41,447 INFO 5012 [egg-security] use nosniff middleware
+2019-06-08 10:54:41,449 INFO 5012 [egg-security] use xssProtection middleware
+2019-06-08 10:54:41,452 INFO 5012 [egg-security] use xframe middleware
+2019-06-08 10:54:41,455 INFO 5012 [egg-security] use dta middleware
+2019-06-08 10:54:41,455 INFO 5012 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:54:41,501 INFO 5012 [egg:core] dump config after load, 30ms
+2019-06-08 10:54:41,510 INFO 5012 [egg-mongoose] starting...
+2019-06-08 10:54:41,604 INFO 5012 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 10:54:41,607 INFO 5012 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:54:41,614 INFO 5012 [egg-watcher:application] watcher start success
+2019-06-08 10:54:41,678 INFO 5012 [egg:core] dump config after ready, 57ms
+2019-06-08 10:57:24,275 INFO 16280 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:57:24,349 INFO 16280 [egg-multipart] stream mode enable
+2019-06-08 10:57:26,080 INFO 16280 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 10:57:27,437 INFO 16280 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:57:27,443 INFO 16280 [egg-security] use methodnoallow middleware
+2019-06-08 10:57:27,447 INFO 16280 [egg-security] use noopen middleware
+2019-06-08 10:57:27,451 INFO 16280 [egg-security] use nosniff middleware
+2019-06-08 10:57:27,457 INFO 16280 [egg-security] use xssProtection middleware
+2019-06-08 10:57:27,459 INFO 16280 [egg-security] use xframe middleware
+2019-06-08 10:57:27,462 INFO 16280 [egg-security] use dta middleware
+2019-06-08 10:57:27,462 INFO 16280 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:57:27,501 INFO 16280 [egg:core] dump config after load, 25ms
+2019-06-08 10:57:27,510 INFO 16280 [egg-mongoose] starting...
+2019-06-08 10:57:27,565 INFO 16280 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 10:57:27,568 INFO 16280 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:57:27,572 INFO 16280 [egg-watcher:application] watcher start success
+2019-06-08 10:57:27,601 INFO 16280 [egg:core] dump config after ready, 26ms
+2019-06-08 10:57:32,312 INFO 14532 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:57:32,417 INFO 14532 [egg-multipart] stream mode enable
+2019-06-08 10:57:34,380 INFO 14532 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 10:57:35,952 INFO 14532 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:57:35,961 INFO 14532 [egg-security] use methodnoallow middleware
+2019-06-08 10:57:35,964 INFO 14532 [egg-security] use noopen middleware
+2019-06-08 10:57:35,969 INFO 14532 [egg-security] use nosniff middleware
+2019-06-08 10:57:35,974 INFO 14532 [egg-security] use xssProtection middleware
+2019-06-08 10:57:35,978 INFO 14532 [egg-security] use xframe middleware
+2019-06-08 10:57:35,986 INFO 14532 [egg-security] use dta middleware
+2019-06-08 10:57:35,986 INFO 14532 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:57:36,065 INFO 14532 [egg:core] dump config after load, 46ms
+2019-06-08 10:57:36,079 INFO 14532 [egg-mongoose] starting...
+2019-06-08 10:57:36,188 INFO 14532 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 10:57:36,197 INFO 14532 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:57:36,219 INFO 14532 [egg-watcher:application] watcher start success
+2019-06-08 10:57:36,267 INFO 14532 [egg:core] dump config after ready, 43ms
+2019-06-08 10:57:50,748 INFO 3836 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:57:50,835 INFO 3836 [egg-multipart] stream mode enable
+2019-06-08 10:57:53,118 INFO 3836 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 10:57:54,413 INFO 3836 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:57:54,424 INFO 3836 [egg-security] use methodnoallow middleware
+2019-06-08 10:57:54,427 INFO 3836 [egg-security] use noopen middleware
+2019-06-08 10:57:54,438 INFO 3836 [egg-security] use nosniff middleware
+2019-06-08 10:57:54,443 INFO 3836 [egg-security] use xssProtection middleware
+2019-06-08 10:57:54,446 INFO 3836 [egg-security] use xframe middleware
+2019-06-08 10:57:54,448 INFO 3836 [egg-security] use dta middleware
+2019-06-08 10:57:54,448 INFO 3836 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:57:54,496 INFO 3836 [egg:core] dump config after load, 35ms
+2019-06-08 10:57:54,505 INFO 3836 [egg-mongoose] starting...
+2019-06-08 10:57:54,596 INFO 3836 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 10:57:54,598 INFO 3836 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:57:54,608 INFO 3836 [egg-watcher:application] watcher start success
+2019-06-08 10:57:54,674 INFO 3836 [egg:core] dump config after ready, 60ms
+2019-06-08 10:58:36,569 INFO 16412 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:58:36,637 INFO 16412 [egg-multipart] stream mode enable
+2019-06-08 10:58:37,872 INFO 16412 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 10:58:38,823 INFO 16412 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:58:38,829 INFO 16412 [egg-security] use methodnoallow middleware
+2019-06-08 10:58:38,831 INFO 16412 [egg-security] use noopen middleware
+2019-06-08 10:58:38,835 INFO 16412 [egg-security] use nosniff middleware
+2019-06-08 10:58:38,837 INFO 16412 [egg-security] use xssProtection middleware
+2019-06-08 10:58:38,839 INFO 16412 [egg-security] use xframe middleware
+2019-06-08 10:58:38,840 INFO 16412 [egg-security] use dta middleware
+2019-06-08 10:58:38,840 INFO 16412 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:58:38,867 INFO 16412 [egg:core] dump config after load, 19ms
+2019-06-08 10:58:38,873 INFO 16412 [egg-mongoose] starting...
+2019-06-08 10:58:38,918 INFO 16412 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 10:58:38,919 INFO 16412 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:58:38,922 INFO 16412 [egg-watcher:application] watcher start success
+2019-06-08 10:58:38,951 INFO 16412 [egg:core] dump config after ready, 25ms
+2019-06-08 10:59:39,945 INFO 15128 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 10:59:40,044 INFO 15128 [egg-multipart] stream mode enable
+2019-06-08 10:59:41,564 INFO 15128 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 10:59:42,726 INFO 15128 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 10:59:42,735 INFO 15128 [egg-security] use methodnoallow middleware
+2019-06-08 10:59:42,738 INFO 15128 [egg-security] use noopen middleware
+2019-06-08 10:59:42,746 INFO 15128 [egg-security] use nosniff middleware
+2019-06-08 10:59:42,749 INFO 15128 [egg-security] use xssProtection middleware
+2019-06-08 10:59:42,751 INFO 15128 [egg-security] use xframe middleware
+2019-06-08 10:59:42,754 INFO 15128 [egg-security] use dta middleware
+2019-06-08 10:59:42,754 INFO 15128 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 10:59:42,831 INFO 15128 [egg:core] dump config after load, 58ms
+2019-06-08 10:59:42,840 INFO 15128 [egg-mongoose] starting...
+2019-06-08 10:59:42,926 INFO 15128 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 10:59:42,936 INFO 15128 [egg-mongoose] instance[0] start successfully
+2019-06-08 10:59:42,942 INFO 15128 [egg-watcher:application] watcher start success
+2019-06-08 10:59:43,071 INFO 15128 [egg:core] dump config after ready, 57ms
+2019-06-08 11:04:30,032 INFO 12544 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:04:30,084 INFO 12544 [egg-multipart] stream mode enable
+2019-06-08 11:04:31,365 INFO 12544 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:04:32,064 INFO 12544 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:04:32,071 INFO 12544 [egg-security] use methodnoallow middleware
+2019-06-08 11:04:32,074 INFO 12544 [egg-security] use noopen middleware
+2019-06-08 11:04:32,078 INFO 12544 [egg-security] use nosniff middleware
+2019-06-08 11:04:32,080 INFO 12544 [egg-security] use xssProtection middleware
+2019-06-08 11:04:32,082 INFO 12544 [egg-security] use xframe middleware
+2019-06-08 11:04:32,084 INFO 12544 [egg-security] use dta middleware
+2019-06-08 11:04:32,084 INFO 12544 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:04:32,109 INFO 12544 [egg:core] dump config after load, 17ms
+2019-06-08 11:04:32,114 INFO 12544 [egg-mongoose] starting...
+2019-06-08 11:04:32,149 INFO 12544 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:04:32,150 INFO 12544 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:04:32,153 INFO 12544 [egg-watcher:application] watcher start success
+2019-06-08 11:04:32,175 INFO 12544 [egg:core] dump config after ready, 19ms
+2019-06-08 11:05:39,695 INFO 9528 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:05:39,779 INFO 9528 [egg-multipart] stream mode enable
+2019-06-08 11:05:41,898 INFO 9528 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:05:42,823 INFO 9528 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:05:42,829 INFO 9528 [egg-security] use methodnoallow middleware
+2019-06-08 11:05:42,831 INFO 9528 [egg-security] use noopen middleware
+2019-06-08 11:05:42,834 INFO 9528 [egg-security] use nosniff middleware
+2019-06-08 11:05:42,836 INFO 9528 [egg-security] use xssProtection middleware
+2019-06-08 11:05:42,839 INFO 9528 [egg-security] use xframe middleware
+2019-06-08 11:05:42,841 INFO 9528 [egg-security] use dta middleware
+2019-06-08 11:05:42,841 INFO 9528 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:05:42,870 INFO 9528 [egg:core] dump config after load, 18ms
+2019-06-08 11:05:42,876 INFO 9528 [egg-mongoose] starting...
+2019-06-08 11:05:42,939 INFO 9528 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:05:42,942 INFO 9528 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:05:42,946 INFO 9528 [egg-watcher:application] watcher start success
+2019-06-08 11:05:42,978 INFO 9528 [egg:core] dump config after ready, 28ms
+2019-06-08 11:11:03,681 INFO 12292 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:11:03,729 INFO 12292 [egg-multipart] stream mode enable
+2019-06-08 11:11:04,934 INFO 12292 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:11:05,556 INFO 12292 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:11:05,562 INFO 12292 [egg-security] use methodnoallow middleware
+2019-06-08 11:11:05,563 INFO 12292 [egg-security] use noopen middleware
+2019-06-08 11:11:05,566 INFO 12292 [egg-security] use nosniff middleware
+2019-06-08 11:11:05,568 INFO 12292 [egg-security] use xssProtection middleware
+2019-06-08 11:11:05,569 INFO 12292 [egg-security] use xframe middleware
+2019-06-08 11:11:05,571 INFO 12292 [egg-security] use dta middleware
+2019-06-08 11:11:05,571 INFO 12292 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:11:05,594 INFO 12292 [egg:core] dump config after load, 16ms
+2019-06-08 11:11:05,598 INFO 12292 [egg-mongoose] starting...
+2019-06-08 11:11:05,641 INFO 12292 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:11:05,642 INFO 12292 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:11:05,647 INFO 12292 [egg-watcher:application] watcher start success
+2019-06-08 11:11:05,671 INFO 12292 [egg:core] dump config after ready, 21ms
+2019-06-08 11:13:22,440 INFO 2468 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:13:22,493 INFO 2468 [egg-multipart] stream mode enable
+2019-06-08 11:13:24,698 INFO 2468 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:13:25,702 INFO 2468 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:13:25,708 INFO 2468 [egg-security] use methodnoallow middleware
+2019-06-08 11:13:25,711 INFO 2468 [egg-security] use noopen middleware
+2019-06-08 11:13:25,715 INFO 2468 [egg-security] use nosniff middleware
+2019-06-08 11:13:25,718 INFO 2468 [egg-security] use xssProtection middleware
+2019-06-08 11:13:25,720 INFO 2468 [egg-security] use xframe middleware
+2019-06-08 11:13:25,722 INFO 2468 [egg-security] use dta middleware
+2019-06-08 11:13:25,722 INFO 2468 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:13:25,758 INFO 2468 [egg:core] dump config after load, 24ms
+2019-06-08 11:13:25,765 INFO 2468 [egg-mongoose] starting...
+2019-06-08 11:13:25,823 INFO 2468 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:13:25,826 INFO 2468 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:13:25,830 INFO 2468 [egg-watcher:application] watcher start success
+2019-06-08 11:13:25,863 INFO 2468 [egg:core] dump config after ready, 28ms
+2019-06-08 11:21:13,976 INFO 13156 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:21:14,033 INFO 13156 [egg-multipart] stream mode enable
+2019-06-08 11:21:15,565 INFO 13156 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:21:16,248 INFO 13156 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:21:16,253 INFO 13156 [egg-security] use methodnoallow middleware
+2019-06-08 11:21:16,255 INFO 13156 [egg-security] use noopen middleware
+2019-06-08 11:21:16,258 INFO 13156 [egg-security] use nosniff middleware
+2019-06-08 11:21:16,259 INFO 13156 [egg-security] use xssProtection middleware
+2019-06-08 11:21:16,261 INFO 13156 [egg-security] use xframe middleware
+2019-06-08 11:21:16,263 INFO 13156 [egg-security] use dta middleware
+2019-06-08 11:21:16,263 INFO 13156 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:21:16,288 INFO 13156 [egg:core] dump config after load, 17ms
+2019-06-08 11:21:16,293 INFO 13156 [egg-mongoose] starting...
+2019-06-08 11:21:16,331 INFO 13156 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:21:16,335 INFO 13156 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:21:16,338 INFO 13156 [egg-watcher:application] watcher start success
+2019-06-08 11:21:16,365 INFO 13156 [egg:core] dump config after ready, 23ms
+2019-06-08 11:22:25,803 INFO 16276 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:22:25,872 INFO 16276 [egg-multipart] stream mode enable
+2019-06-08 11:22:27,389 INFO 16276 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:22:28,551 INFO 16276 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:22:28,558 INFO 16276 [egg-security] use methodnoallow middleware
+2019-06-08 11:22:28,560 INFO 16276 [egg-security] use noopen middleware
+2019-06-08 11:22:28,564 INFO 16276 [egg-security] use nosniff middleware
+2019-06-08 11:22:28,566 INFO 16276 [egg-security] use xssProtection middleware
+2019-06-08 11:22:28,569 INFO 16276 [egg-security] use xframe middleware
+2019-06-08 11:22:28,571 INFO 16276 [egg-security] use dta middleware
+2019-06-08 11:22:28,571 INFO 16276 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:22:28,608 INFO 16276 [egg:core] dump config after load, 25ms
+2019-06-08 11:22:28,613 INFO 16276 [egg-mongoose] starting...
+2019-06-08 11:22:28,662 INFO 16276 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:22:28,664 INFO 16276 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:22:28,669 INFO 16276 [egg-watcher:application] watcher start success
+2019-06-08 11:22:28,694 INFO 16276 [egg:core] dump config after ready, 22ms
+2019-06-08 11:27:00,526 INFO 5576 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:27:00,601 INFO 5576 [egg-multipart] stream mode enable
+2019-06-08 11:27:02,301 INFO 5576 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:27:03,178 INFO 5576 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:27:03,186 INFO 5576 [egg-security] use methodnoallow middleware
+2019-06-08 11:27:03,188 INFO 5576 [egg-security] use noopen middleware
+2019-06-08 11:27:03,190 INFO 5576 [egg-security] use nosniff middleware
+2019-06-08 11:27:03,192 INFO 5576 [egg-security] use xssProtection middleware
+2019-06-08 11:27:03,193 INFO 5576 [egg-security] use xframe middleware
+2019-06-08 11:27:03,195 INFO 5576 [egg-security] use dta middleware
+2019-06-08 11:27:03,195 INFO 5576 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:27:03,219 INFO 5576 [egg:core] dump config after load, 16ms
+2019-06-08 11:27:03,223 INFO 5576 [egg-mongoose] starting...
+2019-06-08 11:27:03,259 INFO 5576 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:27:03,260 INFO 5576 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:27:03,263 INFO 5576 [egg-watcher:application] watcher start success
+2019-06-08 11:27:03,285 INFO 5576 [egg:core] dump config after ready, 19ms
+2019-06-08 11:28:58,976 INFO 15796 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:28:59,025 INFO 15796 [egg-multipart] stream mode enable
+2019-06-08 11:29:00,814 INFO 15796 [egg-mongoose] connecting mongodb://127.0.0.1/jira
+2019-06-08 11:29:01,930 INFO 15796 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:29:01,941 INFO 15796 [egg-security] use methodnoallow middleware
+2019-06-08 11:29:01,951 INFO 15796 [egg-security] use noopen middleware
+2019-06-08 11:29:01,960 INFO 15796 [egg-security] use nosniff middleware
+2019-06-08 11:29:01,963 INFO 15796 [egg-security] use xssProtection middleware
+2019-06-08 11:29:01,968 INFO 15796 [egg-security] use xframe middleware
+2019-06-08 11:29:01,971 INFO 15796 [egg-security] use dta middleware
+2019-06-08 11:29:01,971 INFO 15796 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:29:02,019 INFO 15796 [egg:core] dump config after load, 30ms
+2019-06-08 11:29:02,029 INFO 15796 [egg-mongoose] starting...
+2019-06-08 11:29:02,116 INFO 15796 [egg-mongoose] mongodb://127.0.0.1/jira connected successfully
+2019-06-08 11:29:02,119 INFO 15796 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:29:02,137 INFO 15796 [egg-watcher:application] watcher start success
+2019-06-08 11:29:02,179 INFO 15796 [egg:core] dump config after ready, 35ms
+2019-06-08 11:35:41,126 INFO 18748 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:35:41,179 INFO 18748 [egg-multipart] stream mode enable
+2019-06-08 11:35:42,605 INFO 18748 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:35:43,762 INFO 18748 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:35:43,771 INFO 18748 [egg-security] use methodnoallow middleware
+2019-06-08 11:35:43,774 INFO 18748 [egg-security] use noopen middleware
+2019-06-08 11:35:43,778 INFO 18748 [egg-security] use nosniff middleware
+2019-06-08 11:35:43,781 INFO 18748 [egg-security] use xssProtection middleware
+2019-06-08 11:35:43,784 INFO 18748 [egg-security] use xframe middleware
+2019-06-08 11:35:43,786 INFO 18748 [egg-security] use dta middleware
+2019-06-08 11:35:43,786 INFO 18748 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:35:43,827 INFO 18748 [egg:core] dump config after load, 32ms
+2019-06-08 11:35:43,832 INFO 18748 [egg-mongoose] starting...
+2019-06-08 11:35:43,887 INFO 18748 [egg-watcher:application] watcher start success
+2019-06-08 11:35:44,890 INFO 18748 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:35:44,892 INFO 18748 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:35:44,917 INFO 18748 [egg:core] dump config after ready, 22ms
+2019-06-08 11:39:09,551 INFO 1944 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:39:09,601 INFO 1944 [egg-multipart] stream mode enable
+2019-06-08 11:39:10,815 INFO 1944 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:39:11,421 INFO 1944 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:39:11,427 INFO 1944 [egg-security] use methodnoallow middleware
+2019-06-08 11:39:11,428 INFO 1944 [egg-security] use noopen middleware
+2019-06-08 11:39:11,432 INFO 1944 [egg-security] use nosniff middleware
+2019-06-08 11:39:11,434 INFO 1944 [egg-security] use xssProtection middleware
+2019-06-08 11:39:11,436 INFO 1944 [egg-security] use xframe middleware
+2019-06-08 11:39:11,438 INFO 1944 [egg-security] use dta middleware
+2019-06-08 11:39:11,438 INFO 1944 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:39:11,462 INFO 1944 [egg:core] dump config after load, 16ms
+2019-06-08 11:39:11,466 INFO 1944 [egg-mongoose] starting...
+2019-06-08 11:39:11,502 INFO 1944 [egg-watcher:application] watcher start success
+2019-06-08 11:39:12,508 INFO 1944 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:39:12,510 INFO 1944 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:39:12,538 INFO 1944 [egg:core] dump config after ready, 25ms
+2019-06-08 11:41:37,034 INFO 16784 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:41:37,100 INFO 16784 [egg-multipart] stream mode enable
+2019-06-08 11:41:38,709 INFO 16784 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:41:39,348 INFO 16784 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:41:39,355 INFO 16784 [egg-security] use methodnoallow middleware
+2019-06-08 11:41:39,357 INFO 16784 [egg-security] use noopen middleware
+2019-06-08 11:41:39,360 INFO 16784 [egg-security] use nosniff middleware
+2019-06-08 11:41:39,362 INFO 16784 [egg-security] use xssProtection middleware
+2019-06-08 11:41:39,364 INFO 16784 [egg-security] use xframe middleware
+2019-06-08 11:41:39,366 INFO 16784 [egg-security] use dta middleware
+2019-06-08 11:41:39,366 INFO 16784 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:41:39,391 INFO 16784 [egg:core] dump config after load, 17ms
+2019-06-08 11:41:39,394 INFO 16784 [egg-mongoose] starting...
+2019-06-08 11:41:39,437 INFO 16784 [egg-watcher:application] watcher start success
+2019-06-08 11:41:40,446 INFO 16784 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:41:40,448 INFO 16784 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:41:40,476 INFO 16784 [egg:core] dump config after ready, 25ms
+2019-06-08 11:42:07,492 INFO 1836 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:42:07,558 INFO 1836 [egg-multipart] stream mode enable
+2019-06-08 11:42:09,087 INFO 1836 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:42:09,818 INFO 1836 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:42:09,824 INFO 1836 [egg-security] use methodnoallow middleware
+2019-06-08 11:42:09,826 INFO 1836 [egg-security] use noopen middleware
+2019-06-08 11:42:09,828 INFO 1836 [egg-security] use nosniff middleware
+2019-06-08 11:42:09,830 INFO 1836 [egg-security] use xssProtection middleware
+2019-06-08 11:42:09,831 INFO 1836 [egg-security] use xframe middleware
+2019-06-08 11:42:09,834 INFO 1836 [egg-security] use dta middleware
+2019-06-08 11:42:09,834 INFO 1836 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:42:09,859 INFO 1836 [egg:core] dump config after load, 17ms
+2019-06-08 11:42:09,862 INFO 1836 [egg-mongoose] starting...
+2019-06-08 11:42:09,893 INFO 1836 [egg-watcher:application] watcher start success
+2019-06-08 11:42:10,909 INFO 1836 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:42:10,910 INFO 1836 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:42:10,943 INFO 1836 [egg:core] dump config after ready, 29ms
+2019-06-08 11:42:28,529 INFO 18272 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:42:28,618 INFO 18272 [egg-multipart] stream mode enable
+2019-06-08 11:42:31,040 INFO 18272 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:42:32,602 INFO 18272 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:42:32,609 INFO 18272 [egg-security] use methodnoallow middleware
+2019-06-08 11:42:32,613 INFO 18272 [egg-security] use noopen middleware
+2019-06-08 11:42:32,624 INFO 18272 [egg-security] use nosniff middleware
+2019-06-08 11:42:32,626 INFO 18272 [egg-security] use xssProtection middleware
+2019-06-08 11:42:32,628 INFO 18272 [egg-security] use xframe middleware
+2019-06-08 11:42:32,632 INFO 18272 [egg-security] use dta middleware
+2019-06-08 11:42:32,632 INFO 18272 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:42:32,682 INFO 18272 [egg:core] dump config after load, 36ms
+2019-06-08 11:42:32,688 INFO 18272 [egg-mongoose] starting...
+2019-06-08 11:42:32,767 INFO 18272 [egg-watcher:application] watcher start success
+2019-06-08 11:42:33,870 INFO 18272 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:42:33,872 INFO 18272 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:42:33,897 INFO 18272 [egg:core] dump config after ready, 22ms
+2019-06-08 11:42:38,141 INFO 9044 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:42:38,217 INFO 9044 [egg-multipart] stream mode enable
+2019-06-08 11:42:40,248 INFO 9044 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:42:41,214 INFO 9044 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:42:41,220 INFO 9044 [egg-security] use methodnoallow middleware
+2019-06-08 11:42:41,222 INFO 9044 [egg-security] use noopen middleware
+2019-06-08 11:42:41,225 INFO 9044 [egg-security] use nosniff middleware
+2019-06-08 11:42:41,228 INFO 9044 [egg-security] use xssProtection middleware
+2019-06-08 11:42:41,230 INFO 9044 [egg-security] use xframe middleware
+2019-06-08 11:42:41,232 INFO 9044 [egg-security] use dta middleware
+2019-06-08 11:42:41,232 INFO 9044 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:42:41,265 INFO 9044 [egg:core] dump config after load, 23ms
+2019-06-08 11:42:41,269 INFO 9044 [egg-mongoose] starting...
+2019-06-08 11:42:41,303 INFO 9044 [egg-watcher:application] watcher start success
+2019-06-08 11:42:42,333 INFO 9044 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:42:42,337 INFO 9044 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:42:42,375 INFO 9044 [egg:core] dump config after ready, 34ms
+2019-06-08 11:43:28,466 INFO 9008 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:43:28,522 INFO 9008 [egg-multipart] stream mode enable
+2019-06-08 11:43:29,953 INFO 9008 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:43:30,766 INFO 9008 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:43:30,773 INFO 9008 [egg-security] use methodnoallow middleware
+2019-06-08 11:43:30,775 INFO 9008 [egg-security] use noopen middleware
+2019-06-08 11:43:30,780 INFO 9008 [egg-security] use nosniff middleware
+2019-06-08 11:43:30,782 INFO 9008 [egg-security] use xssProtection middleware
+2019-06-08 11:43:30,785 INFO 9008 [egg-security] use xframe middleware
+2019-06-08 11:43:30,787 INFO 9008 [egg-security] use dta middleware
+2019-06-08 11:43:30,787 INFO 9008 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:43:30,816 INFO 9008 [egg:core] dump config after load, 18ms
+2019-06-08 11:43:30,824 INFO 9008 [egg-mongoose] starting...
+2019-06-08 11:43:30,854 INFO 9008 [egg-watcher:application] watcher start success
+2019-06-08 11:43:31,866 INFO 9008 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:43:31,868 INFO 9008 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:43:31,894 INFO 9008 [egg:core] dump config after ready, 23ms
+2019-06-08 11:43:36,067 INFO 18176 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:43:36,117 INFO 18176 [egg-multipart] stream mode enable
+2019-06-08 11:43:37,570 INFO 18176 [egg-mongoose] connecting mongodb://localhost:27017/jira
+2019-06-08 11:43:38,218 INFO 18176 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:43:38,223 INFO 18176 [egg-security] use methodnoallow middleware
+2019-06-08 11:43:38,224 INFO 18176 [egg-security] use noopen middleware
+2019-06-08 11:43:38,227 INFO 18176 [egg-security] use nosniff middleware
+2019-06-08 11:43:38,229 INFO 18176 [egg-security] use xssProtection middleware
+2019-06-08 11:43:38,230 INFO 18176 [egg-security] use xframe middleware
+2019-06-08 11:43:38,232 INFO 18176 [egg-security] use dta middleware
+2019-06-08 11:43:38,232 INFO 18176 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:43:38,256 INFO 18176 [egg:core] dump config after load, 15ms
+2019-06-08 11:43:38,259 INFO 18176 [egg-mongoose] starting...
+2019-06-08 11:43:38,288 INFO 18176 [egg-watcher:application] watcher start success
+2019-06-08 11:43:39,313 INFO 18176 [egg-mongoose] mongodb://localhost:27017/jira connected successfully
+2019-06-08 11:43:39,314 INFO 18176 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:43:39,342 INFO 18176 [egg:core] dump config after ready, 25ms
+2019-06-08 11:46:11,775 INFO 11600 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:46:11,840 INFO 11600 [egg-multipart] stream mode enable
+2019-06-08 11:46:13,115 INFO 11600 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:46:13,724 INFO 11600 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:46:13,728 INFO 11600 [egg-security] use methodnoallow middleware
+2019-06-08 11:46:13,730 INFO 11600 [egg-security] use noopen middleware
+2019-06-08 11:46:13,733 INFO 11600 [egg-security] use nosniff middleware
+2019-06-08 11:46:13,734 INFO 11600 [egg-security] use xssProtection middleware
+2019-06-08 11:46:13,736 INFO 11600 [egg-security] use xframe middleware
+2019-06-08 11:46:13,737 INFO 11600 [egg-security] use dta middleware
+2019-06-08 11:46:13,737 INFO 11600 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:46:13,762 INFO 11600 [egg:core] dump config after load, 16ms
+2019-06-08 11:46:13,766 INFO 11600 [egg-mongoose] starting...
+2019-06-08 11:46:13,803 INFO 11600 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:46:13,804 INFO 11600 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:46:13,807 INFO 11600 [egg-watcher:application] watcher start success
+2019-06-08 11:46:13,831 INFO 11600 [egg:core] dump config after ready, 21ms
+2019-06-08 11:46:17,099 INFO 14744 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:46:17,157 INFO 14744 [egg-multipart] stream mode enable
+2019-06-08 11:46:18,396 INFO 14744 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:46:19,220 INFO 14744 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:46:19,226 INFO 14744 [egg-security] use methodnoallow middleware
+2019-06-08 11:46:19,227 INFO 14744 [egg-security] use noopen middleware
+2019-06-08 11:46:19,230 INFO 14744 [egg-security] use nosniff middleware
+2019-06-08 11:46:19,232 INFO 14744 [egg-security] use xssProtection middleware
+2019-06-08 11:46:19,233 INFO 14744 [egg-security] use xframe middleware
+2019-06-08 11:46:19,235 INFO 14744 [egg-security] use dta middleware
+2019-06-08 11:46:19,235 INFO 14744 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:46:19,260 INFO 14744 [egg:core] dump config after load, 18ms
+2019-06-08 11:46:19,266 INFO 14744 [egg-mongoose] starting...
+2019-06-08 11:46:19,308 INFO 14744 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:46:19,310 INFO 14744 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:46:19,313 INFO 14744 [egg-watcher:application] watcher start success
+2019-06-08 11:46:19,332 INFO 14744 [egg:core] dump config after ready, 17ms
+2019-06-08 11:46:50,972 INFO 17328 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:46:51,033 INFO 17328 [egg-multipart] stream mode enable
+2019-06-08 11:46:52,557 INFO 17328 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:46:53,358 INFO 17328 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:46:53,368 INFO 17328 [egg-security] use methodnoallow middleware
+2019-06-08 11:46:53,370 INFO 17328 [egg-security] use noopen middleware
+2019-06-08 11:46:53,373 INFO 17328 [egg-security] use nosniff middleware
+2019-06-08 11:46:53,378 INFO 17328 [egg-security] use xssProtection middleware
+2019-06-08 11:46:53,380 INFO 17328 [egg-security] use xframe middleware
+2019-06-08 11:46:53,382 INFO 17328 [egg-security] use dta middleware
+2019-06-08 11:46:53,382 INFO 17328 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:46:53,411 INFO 17328 [egg:core] dump config after load, 20ms
+2019-06-08 11:46:53,417 INFO 17328 [egg-mongoose] starting...
+2019-06-08 11:46:53,468 INFO 17328 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:46:53,470 INFO 17328 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:46:53,474 INFO 17328 [egg-watcher:application] watcher start success
+2019-06-08 11:46:53,504 INFO 17328 [egg:core] dump config after ready, 25ms
+2019-06-08 11:46:57,529 INFO 19296 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:46:57,598 INFO 19296 [egg-multipart] stream mode enable
+2019-06-08 11:46:59,148 INFO 19296 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:47:00,204 INFO 19296 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:47:00,214 INFO 19296 [egg-security] use methodnoallow middleware
+2019-06-08 11:47:00,217 INFO 19296 [egg-security] use noopen middleware
+2019-06-08 11:47:00,223 INFO 19296 [egg-security] use nosniff middleware
+2019-06-08 11:47:00,225 INFO 19296 [egg-security] use xssProtection middleware
+2019-06-08 11:47:00,227 INFO 19296 [egg-security] use xframe middleware
+2019-06-08 11:47:00,231 INFO 19296 [egg-security] use dta middleware
+2019-06-08 11:47:00,231 INFO 19296 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:47:00,281 INFO 19296 [egg:core] dump config after load, 31ms
+2019-06-08 11:47:00,289 INFO 19296 [egg-mongoose] starting...
+2019-06-08 11:47:00,358 INFO 19296 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:47:00,360 INFO 19296 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:47:00,373 INFO 19296 [egg-watcher:application] watcher start success
+2019-06-08 11:47:00,408 INFO 19296 [egg:core] dump config after ready, 26ms
+2019-06-08 11:47:39,133 INFO 10128 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:47:39,193 INFO 10128 [egg-multipart] stream mode enable
+2019-06-08 11:47:40,482 INFO 10128 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:47:41,210 INFO 10128 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:47:41,219 INFO 10128 [egg-security] use methodnoallow middleware
+2019-06-08 11:47:41,221 INFO 10128 [egg-security] use noopen middleware
+2019-06-08 11:47:41,223 INFO 10128 [egg-security] use nosniff middleware
+2019-06-08 11:47:41,225 INFO 10128 [egg-security] use xssProtection middleware
+2019-06-08 11:47:41,227 INFO 10128 [egg-security] use xframe middleware
+2019-06-08 11:47:41,228 INFO 10128 [egg-security] use dta middleware
+2019-06-08 11:47:41,228 INFO 10128 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:47:41,262 INFO 10128 [egg:core] dump config after load, 25ms
+2019-06-08 11:47:41,267 INFO 10128 [egg-mongoose] starting...
+2019-06-08 11:47:41,307 INFO 10128 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:47:41,308 INFO 10128 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:47:41,315 INFO 10128 [egg-watcher:application] watcher start success
+2019-06-08 11:47:41,339 INFO 10128 [egg:core] dump config after ready, 19ms
+2019-06-08 11:47:45,373 INFO 2452 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:47:45,436 INFO 2452 [egg-multipart] stream mode enable
+2019-06-08 11:47:46,946 INFO 2452 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:47:47,633 INFO 2452 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:47:47,638 INFO 2452 [egg-security] use methodnoallow middleware
+2019-06-08 11:47:47,640 INFO 2452 [egg-security] use noopen middleware
+2019-06-08 11:47:47,643 INFO 2452 [egg-security] use nosniff middleware
+2019-06-08 11:47:47,645 INFO 2452 [egg-security] use xssProtection middleware
+2019-06-08 11:47:47,647 INFO 2452 [egg-security] use xframe middleware
+2019-06-08 11:47:47,649 INFO 2452 [egg-security] use dta middleware
+2019-06-08 11:47:47,649 INFO 2452 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:47:47,675 INFO 2452 [egg:core] dump config after load, 18ms
+2019-06-08 11:47:47,679 INFO 2452 [egg-mongoose] starting...
+2019-06-08 11:47:47,720 INFO 2452 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:47:47,723 INFO 2452 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:47:47,726 INFO 2452 [egg-watcher:application] watcher start success
+2019-06-08 11:47:47,748 INFO 2452 [egg:core] dump config after ready, 19ms
+2019-06-08 11:52:24,232 INFO 19340 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:52:24,292 INFO 19340 [egg-multipart] stream mode enable
+2019-06-08 11:52:26,027 INFO 19340 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:52:26,971 INFO 19340 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:52:26,985 INFO 19340 [egg-security] use methodnoallow middleware
+2019-06-08 11:52:26,989 INFO 19340 [egg-security] use noopen middleware
+2019-06-08 11:52:26,997 INFO 19340 [egg-security] use nosniff middleware
+2019-06-08 11:52:27,002 INFO 19340 [egg-security] use xssProtection middleware
+2019-06-08 11:52:27,005 INFO 19340 [egg-security] use xframe middleware
+2019-06-08 11:52:27,008 INFO 19340 [egg-security] use dta middleware
+2019-06-08 11:52:27,009 INFO 19340 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:52:27,048 INFO 19340 [egg:core] dump config after load, 23ms
+2019-06-08 11:52:27,058 INFO 19340 [egg-mongoose] starting...
+2019-06-08 11:52:27,122 INFO 19340 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:52:27,123 INFO 19340 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:52:27,129 INFO 19340 [egg-watcher:application] watcher start success
+2019-06-08 11:52:27,161 INFO 19340 [egg:core] dump config after ready, 27ms
+2019-06-08 11:53:50,006 INFO 17832 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:53:50,057 INFO 17832 [egg-multipart] stream mode enable
+2019-06-08 11:53:51,327 INFO 17832 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:53:51,959 INFO 17832 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:53:51,965 INFO 17832 [egg-security] use methodnoallow middleware
+2019-06-08 11:53:51,967 INFO 17832 [egg-security] use noopen middleware
+2019-06-08 11:53:51,969 INFO 17832 [egg-security] use nosniff middleware
+2019-06-08 11:53:51,971 INFO 17832 [egg-security] use xssProtection middleware
+2019-06-08 11:53:51,973 INFO 17832 [egg-security] use xframe middleware
+2019-06-08 11:53:51,974 INFO 17832 [egg-security] use dta middleware
+2019-06-08 11:53:51,974 INFO 17832 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:53:52,000 INFO 17832 [egg:core] dump config after load, 17ms
+2019-06-08 11:53:52,006 INFO 17832 [egg-mongoose] starting...
+2019-06-08 11:53:52,046 INFO 17832 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:53:52,047 INFO 17832 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:53:52,051 INFO 17832 [egg-watcher:application] watcher start success
+2019-06-08 11:53:52,075 INFO 17832 [egg:core] dump config after ready, 21ms
+2019-06-08 11:53:55,590 INFO 19136 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:53:55,653 INFO 19136 [egg-multipart] stream mode enable
+2019-06-08 11:53:57,343 INFO 19136 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:53:58,291 INFO 19136 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:53:58,300 INFO 19136 [egg-security] use methodnoallow middleware
+2019-06-08 11:53:58,302 INFO 19136 [egg-security] use noopen middleware
+2019-06-08 11:53:58,305 INFO 19136 [egg-security] use nosniff middleware
+2019-06-08 11:53:58,308 INFO 19136 [egg-security] use xssProtection middleware
+2019-06-08 11:53:58,310 INFO 19136 [egg-security] use xframe middleware
+2019-06-08 11:53:58,312 INFO 19136 [egg-security] use dta middleware
+2019-06-08 11:53:58,312 INFO 19136 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:53:58,356 INFO 19136 [egg:core] dump config after load, 29ms
+2019-06-08 11:53:58,362 INFO 19136 [egg-mongoose] starting...
+2019-06-08 11:53:58,426 INFO 19136 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:53:58,429 INFO 19136 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:53:58,439 INFO 19136 [egg-watcher:application] watcher start success
+2019-06-08 11:53:58,472 INFO 19136 [egg:core] dump config after ready, 28ms
+2019-06-08 11:54:34,617 INFO 5336 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:54:34,672 INFO 5336 [egg-multipart] stream mode enable
+2019-06-08 11:54:36,184 INFO 5336 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:54:37,014 INFO 5336 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:54:37,024 INFO 5336 [egg-security] use methodnoallow middleware
+2019-06-08 11:54:37,026 INFO 5336 [egg-security] use noopen middleware
+2019-06-08 11:54:37,030 INFO 5336 [egg-security] use nosniff middleware
+2019-06-08 11:54:37,031 INFO 5336 [egg-security] use xssProtection middleware
+2019-06-08 11:54:37,033 INFO 5336 [egg-security] use xframe middleware
+2019-06-08 11:54:37,036 INFO 5336 [egg-security] use dta middleware
+2019-06-08 11:54:37,036 INFO 5336 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:54:37,071 INFO 5336 [egg:core] dump config after load, 23ms
+2019-06-08 11:54:37,077 INFO 5336 [egg-mongoose] starting...
+2019-06-08 11:54:37,126 INFO 5336 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:54:37,128 INFO 5336 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:54:37,133 INFO 5336 [egg-watcher:application] watcher start success
+2019-06-08 11:54:37,157 INFO 5336 [egg:core] dump config after ready, 20ms
+2019-06-08 11:54:41,560 INFO 8764 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\lenovo\\graphql\\logs\\graphql","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"graphql-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-06-08 11:54:41,628 INFO 8764 [egg-multipart] stream mode enable
+2019-06-08 11:54:43,139 INFO 8764 [egg-mongoose] connecting mongodb://127.0.0.1:27017/jira
+2019-06-08 11:54:43,793 INFO 8764 [egg-static] starting static serve /public/ -> C:\Users\lenovo\graphql\app\public
+2019-06-08 11:54:43,798 INFO 8764 [egg-security] use methodnoallow middleware
+2019-06-08 11:54:43,800 INFO 8764 [egg-security] use noopen middleware
+2019-06-08 11:54:43,803 INFO 8764 [egg-security] use nosniff middleware
+2019-06-08 11:54:43,805 INFO 8764 [egg-security] use xssProtection middleware
+2019-06-08 11:54:43,806 INFO 8764 [egg-security] use xframe middleware
+2019-06-08 11:54:43,808 INFO 8764 [egg-security] use dta middleware
+2019-06-08 11:54:43,808 INFO 8764 [egg-security] compose 6 middlewares into one security middleware
+2019-06-08 11:54:43,835 INFO 8764 [egg:core] dump config after load, 19ms
+2019-06-08 11:54:43,839 INFO 8764 [egg-mongoose] starting...
+2019-06-08 11:54:43,878 INFO 8764 [egg-mongoose] mongodb://127.0.0.1:27017/jira connected successfully
+2019-06-08 11:54:43,880 INFO 8764 [egg-mongoose] instance[0] start successfully
+2019-06-08 11:54:43,883 INFO 8764 [egg-watcher:application] watcher start success
+2019-06-08 11:54:43,907 INFO 8764 [egg:core] dump config after ready, 21ms
+2019-06-08 12:38:12,754 WARN 8764 [ClusterClient:Watcher] follower closed, and try to init it again
