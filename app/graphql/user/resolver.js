@@ -5,6 +5,11 @@ module.exports = {
             return ctx.connector.user.getBySoeid(root.assignee);
         }
     },
+    TFS: {
+        assignee(root, _, ctx) {
+            return ctx.connector.user.getBySoeid(root.assignee);
+        }
+    },
     Query: {
         user(root, {soeid}, ctx) {
             return ctx.connector.user.getUserByService(soeid);

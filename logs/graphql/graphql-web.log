@@ -254,3 +254,49 @@ hostname: DESKTOP-7GV4RCT
 pid: 2300
 hostname: DESKTOP-7GV4RCT
 
+2019-06-09 11:27:51,748 ERROR 9304 [-/::1/-/57ms POST /graphql?] nodejs.GraphQLError: Syntax Error: Unexpected }
+    at syntaxError (C:\Users\lenovo\graphql\node_modules\graphql\error\syntaxError.js:24:10)
+    at unexpected (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1322:33)
+    at parseDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:152:9)
+    at parseDocument (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:110:22)
+    at Object.parse (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\generate\buildSchemaFromTypeDefinitions.js:20:33)
+    at makeExecutableSchema (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\makeExecutableSchema.js:27:29)
+    at Application.get (C:\Users\lenovo\graphql\node_modules\egg-graphql\lib\load_schema.js:72:31)
+    at C:\Users\lenovo\graphql\node_modules\egg-graphql\app\middleware\graphql.js:60:21
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\lenovo\graphql\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+message: "Syntax Error: Unexpected }"
+locations: [{"line":21,"column":2}]
+path: undefined
+pid: 9304
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 11:27:51,764 ERROR 9304 [-/::1/-/2ms POST /graphql?] nodejs.GraphQLError: Syntax Error: Unexpected }
+    at syntaxError (C:\Users\lenovo\graphql\node_modules\graphql\error\syntaxError.js:24:10)
+    at unexpected (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:1322:33)
+    at parseDefinition (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:152:9)
+    at parseDocument (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:110:22)
+    at Object.parse (C:\Users\lenovo\graphql\node_modules\graphql\language\parser.js:38:10)
+    at Object.buildSchemaFromTypeDefinitions (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\generate\buildSchemaFromTypeDefinitions.js:20:33)
+    at makeExecutableSchema (C:\Users\lenovo\graphql\node_modules\graphql-tools\dist\makeExecutableSchema.js:27:29)
+    at Application.get (C:\Users\lenovo\graphql\node_modules\egg-graphql\lib\load_schema.js:72:31)
+    at C:\Users\lenovo\graphql\node_modules\egg-graphql\app\middleware\graphql.js:60:21
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\lenovo\graphql\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (C:\Users\lenovo\graphql\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (C:\Users\lenovo\graphql\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (C:\Users\lenovo\graphql\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+message: "Syntax Error: Unexpected }"
+locations: [{"line":21,"column":2}]
+path: undefined
+pid: 9304
+hostname: DESKTOP-7GV4RCT
+

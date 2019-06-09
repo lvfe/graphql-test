@@ -1,7 +1,8 @@
 type User {
     name: String,
     soeid: String,
-    jiras: [JIRA]
+    jiras: [JIRA],
+    tfss: [TFS]
 }
 input InputUser {
     name: String,

@@ -2,4 +2,6 @@ type Query {
     user(soeid: String!): User
     users: [User]
     jiras: [JIRA]
+    tfss: [TFS]
+    tfs(soeid:String!): [TFS]
 }

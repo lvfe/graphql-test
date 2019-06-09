@@ -1,0 +1,4 @@
+type TFS {
+    tfsName: String
+    assignee: User
+}
