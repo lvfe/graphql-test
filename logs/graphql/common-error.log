@@ -498,3 +498,43 @@ name: "unhandledExceptionError"
 pid: 10740
 hostname: DESKTOP-7GV4RCT
 
+2019-06-09 16:47:33,986 ERROR 18068 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18068
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 16:51:10,888 ERROR 18068 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18068
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 17:11:41,896 ERROR 3940 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3940
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 17:13:01,002 ERROR 3940 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3940
+hostname: DESKTOP-7GV4RCT
+

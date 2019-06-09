@@ -7,4 +7,6 @@ type Query {
     tfs(soeid:String!): [TFS]
     tasks: [Task]
     search(body: String): [SearchResult]
+    movies:[Movie]
+    paginateMovie(skip:Int, first:Int, orderBy: String, filter: String, limit:Int, page:Int, offset:Int): PageMovie
 }

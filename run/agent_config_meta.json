@@ -187,7 +187,8 @@
     "dependencies": {
       "bluebird": "C:\\Users\\lenovo\\graphql\\node_modules\\egg\\config\\config.default.js",
       "egg-graphql": "C:\\Users\\lenovo\\graphql\\node_modules\\egg\\config\\config.default.js",
-      "egg-mongoose": "C:\\Users\\lenovo\\graphql\\node_modules\\egg\\config\\config.default.js"
+      "egg-mongoose": "C:\\Users\\lenovo\\graphql\\node_modules\\egg\\config\\config.default.js",
+      "mongoose-paginate": "C:\\Users\\lenovo\\graphql\\node_modules\\egg\\config\\config.default.js"
     },
     "repository": {
       "type": "C:\\Users\\lenovo\\graphql\\node_modules\\egg\\config\\config.default.js",

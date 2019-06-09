@@ -1,0 +1,12 @@
+
+type PageMovie{
+    docs: [Movie]
+    total: Int
+    offset: Int
+    limit: Int
+}
+type Movie {
+    title:String
+    actor:String
+    length:Int
+}
