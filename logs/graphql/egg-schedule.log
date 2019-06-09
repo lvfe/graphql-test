@@ -265,3 +265,195 @@
 2019-06-08 11:54:41,627 INFO 8764 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
 2019-06-08 11:54:41,627 INFO 8764 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
 2019-06-08 11:54:41,627 INFO 8764 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:10:19,117 INFO 16740 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:10:19,117 INFO 16740 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:10:19,117 INFO 16740 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:10:22,056 INFO 21064 [Timer] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 1177949ms at 2019-06-09 04:30:00.005
+2019-06-09 04:10:22,057 INFO 21064 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 71377944ms at 2019-06-10 00:00:00.001
+2019-06-09 04:10:22,058 INFO 21064 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 71378943ms at 2019-06-10 00:00:01.001
+2019-06-09 04:24:28,715 INFO 21484 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:24:28,715 INFO 21484 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:24:28,716 INFO 21484 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:24:30,915 INFO 4260 [Timer] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 329088ms at 2019-06-09 04:30:00.003
+2019-06-09 04:24:30,916 INFO 4260 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 70529085ms at 2019-06-10 00:00:00.001
+2019-06-09 04:24:30,917 INFO 4260 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 70530084ms at 2019-06-10 00:00:01.001
+2019-06-09 04:29:02,673 INFO 17204 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:29:02,673 INFO 17204 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:29:02,673 INFO 17204 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:29:08,926 INFO 16564 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:29:08,926 INFO 16564 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:29:08,926 INFO 16564 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:30:00,049 INFO 4260 [Timer] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 86399989ms at 2019-06-10 04:30:00.038
+2019-06-09 04:30:00,010 INFO 16564 [Job#15600510000091560801637141001] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js executing by app
+2019-06-09 04:30:00,030 INFO 16564 [Job#15600510000091560801637141001] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js execute succeed, used 19ms
+2019-06-09 04:39:01,032 INFO 17636 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:39:01,032 INFO 17636 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:39:01,032 INFO 17636 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:39:09,001 INFO 8744 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:39:09,001 INFO 8744 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:39:09,001 INFO 8744 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:41:22,321 INFO 16852 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:41:22,321 INFO 16852 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:41:22,321 INFO 16852 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:41:58,904 INFO 9620 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:41:58,904 INFO 9620 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:41:58,904 INFO 9620 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:42:05,498 INFO 7128 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:42:05,498 INFO 7128 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:42:05,498 INFO 7128 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:42:46,306 INFO 21312 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:42:46,306 INFO 21312 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:42:46,306 INFO 21312 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:43:06,216 INFO 14948 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:43:06,216 INFO 14948 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:43:06,216 INFO 14948 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:43:14,011 INFO 17188 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:43:14,011 INFO 17188 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:43:14,011 INFO 17188 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:44:39,977 INFO 10744 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:44:39,978 INFO 10744 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:44:39,978 INFO 10744 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:45:31,110 INFO 15372 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:45:31,110 INFO 15372 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:45:31,110 INFO 15372 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:45:39,943 INFO 20896 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:45:39,943 INFO 20896 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:45:39,943 INFO 20896 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:45:40,132 INFO 8296 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:45:40,133 INFO 8296 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:45:40,133 INFO 8296 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:45:48,433 INFO 7152 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:45:48,433 INFO 7152 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:45:48,433 INFO 7152 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:51:12,377 INFO 8276 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:51:12,377 INFO 8276 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:51:12,377 INFO 8276 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:51:19,494 INFO 18780 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:51:19,494 INFO 18780 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:51:19,494 INFO 18780 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:52:01,123 INFO 17636 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:52:01,123 INFO 17636 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:52:01,123 INFO 17636 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:52:07,519 INFO 19840 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:52:07,519 INFO 19840 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:52:07,519 INFO 19840 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:57:43,353 INFO 2468 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:57:43,353 INFO 2468 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:57:43,353 INFO 2468 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:57:49,925 INFO 9856 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:57:49,925 INFO 9856 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:57:49,925 INFO 9856 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 04:59:24,121 INFO 13380 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 04:59:24,121 INFO 13380 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 04:59:24,121 INFO 13380 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:02:35,580 INFO 18068 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:02:35,580 INFO 18068 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:02:35,580 INFO 18068 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:03:21,566 INFO 18896 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:03:21,566 INFO 18896 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:03:21,566 INFO 18896 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:03:48,869 INFO 19268 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:03:48,869 INFO 19268 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:03:48,869 INFO 19268 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:05:34,582 INFO 15132 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:05:34,582 INFO 15132 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:05:34,582 INFO 15132 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:05:52,580 INFO 2300 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:05:52,580 INFO 2300 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:05:52,580 INFO 2300 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:06:03,399 INFO 20340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:06:03,400 INFO 20340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:06:03,400 INFO 20340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:06:18,448 INFO 5488 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:06:18,448 INFO 5488 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:06:18,448 INFO 5488 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:20:42,735 INFO 9660 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:20:42,735 INFO 9660 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:20:42,735 INFO 9660 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:20:56,022 INFO 14012 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:20:56,022 INFO 14012 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:20:56,022 INFO 14012 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:24:43,764 INFO 5340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:24:43,764 INFO 5340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:24:43,764 INFO 5340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:24:45,955 INFO 20364 [Timer] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 83114049ms at 2019-06-10 04:30:00.004
+2019-06-09 05:24:45,956 INFO 20364 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 66914045ms at 2019-06-10 00:00:00.001
+2019-06-09 05:24:45,957 INFO 20364 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 66915044ms at 2019-06-10 00:00:01.001
+2019-06-09 05:26:02,466 INFO 4464 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:26:02,466 INFO 4464 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:26:02,466 INFO 4464 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:26:34,653 INFO 20616 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:26:34,653 INFO 20616 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:26:34,653 INFO 20616 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:26:43,471 INFO 2300 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:26:43,471 INFO 2300 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:26:43,471 INFO 2300 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:29:01,943 INFO 3080 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:29:01,943 INFO 3080 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:29:01,943 INFO 3080 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:49:56,131 INFO 4544 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:49:56,131 INFO 4544 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:49:56,131 INFO 4544 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:50:06,066 INFO 17652 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:50:06,066 INFO 17652 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:50:06,066 INFO 17652 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 05:51:37,775 INFO 10412 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 05:51:37,775 INFO 10412 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 05:51:37,775 INFO 10412 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:01:51,514 INFO 18840 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:01:51,514 INFO 18840 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:01:51,514 INFO 18840 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:01:53,661 INFO 17624 [Timer] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 80886342ms at 2019-06-10 04:30:00.003
+2019-06-09 06:01:53,662 INFO 17624 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 64686339ms at 2019-06-10 00:00:00.001
+2019-06-09 06:01:53,662 INFO 17624 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 64687338ms at 2019-06-10 00:00:01.000
+2019-06-09 06:03:00,894 INFO 18544 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:03:00,895 INFO 18544 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:03:00,895 INFO 18544 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:03:10,036 INFO 16128 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:03:10,036 INFO 16128 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:03:10,036 INFO 16128 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:03:16,053 INFO 18612 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:03:16,053 INFO 18612 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:03:16,053 INFO 18612 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:03:50,939 INFO 15268 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:03:50,939 INFO 15268 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:03:50,939 INFO 15268 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:03:56,352 INFO 7224 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:03:56,352 INFO 7224 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:03:56,352 INFO 7224 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:05:42,370 INFO 3288 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:05:42,370 INFO 3288 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:05:42,370 INFO 3288 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 06:05:48,978 INFO 1848 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 06:05:48,979 INFO 1848 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 06:05:48,979 INFO 1848 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:50:58,661 INFO 16684 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:50:58,662 INFO 16684 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:50:58,662 INFO 16684 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:51:00,607 INFO 11516 [Timer] C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 70739396ms at 2019-06-10 04:30:00.003
+2019-06-09 08:51:00,608 INFO 11516 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 54539393ms at 2019-06-10 00:00:00.001
+2019-06-09 08:51:00,608 INFO 11516 [Timer] C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 54540392ms at 2019-06-10 00:00:01.000
+2019-06-09 08:52:46,673 INFO 20972 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:52:46,673 INFO 20972 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:52:46,673 INFO 20972 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:52:52,445 INFO 17804 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:52:52,445 INFO 17804 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:52:52,445 INFO 17804 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:53:18,475 INFO 19976 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:53:18,475 INFO 19976 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:53:18,475 INFO 19976 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:53:26,735 INFO 19232 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:53:26,735 INFO 19232 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:53:26,735 INFO 19232 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:56:33,338 INFO 18340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:56:33,338 INFO 18340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:56:33,338 INFO 18340 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:56:38,911 INFO 19632 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:56:38,911 INFO 19632 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:56:38,911 INFO 19632 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:56:45,312 INFO 19084 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:56:45,312 INFO 19084 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:56:45,312 INFO 19084 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-06-09 08:56:48,124 INFO 10072 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-06-09 08:56:48,124 INFO 10072 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-06-09 08:56:48,124 INFO 10072 [egg-schedule]: register schedule C:\Users\lenovo\graphql\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

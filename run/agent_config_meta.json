@@ -1,5 +1,4 @@
 {
-  "keys": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
   "graphql": {
     "router": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
     "app": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
@@ -17,7 +16,8 @@
   },
   "security": {
     "csrf": {
-      "enable": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
+      "ignore": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
+      "enable": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",
       "useSession": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",
       "ignoreJSON": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",
       "cookieName": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",
@@ -71,6 +71,7 @@
     "origin": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
     "allowMethods": "C:\\Users\\lenovo\\graphql\\config\\config.default.js"
   },
+  "keys": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
   "session": {
     "maxAge": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-session\\config\\config.default.js",
     "key": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-session\\config\\config.default.js",

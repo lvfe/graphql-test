@@ -1,22 +1,28 @@
-exports.graphql = {
-    router: '/graphql',
-    app: true,
-    graphial: true,
-    agent: true
-};
+'use strict';
 
-exports.middleware = [ 'graphql' ];
-exports.mongoose = {
-    url: process.env.EGG_MONGODB_URL || 'mongodb://127.0.0.1:27017/jira',
-    options: {}
-};
-exports.security = {
-    csrf: {
-        enable: false
-    }
-};
-exports.cors = {
-    origin: '*',
-    allowMethods: 'GET,HEAD,PUT,POST,DELETE,PATCH'
-};
-exports.keys = 'graphql test'
+module.exports = () => {
+    const config = {};
+    config.graphql = {
+        router: '/graphql',
+        app: true,
+        graphial: true,
+        agent: true
+    };
+    
+    config.middleware = [ 'graphql'];
+    config.mongoose = {
+        url: 'mongodb://127.0.0.1/jira',
+        options: {}
+    };
+    config.security = {
+        csrf: {
+            ignore: () => true
+        }
+    };
+    config.cors = {
+        origin: '*',
+        allowMethods: 'GET,HEAD,PUT,POST,DELETE,PATCH'
+    };
+    config.keys = 'graphqltest';
+    return config;
+}

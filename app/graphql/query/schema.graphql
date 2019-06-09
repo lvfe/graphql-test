@@ -1,4 +1,5 @@
 type Query {
     user(soeid: String!): User
     users: [User]
+    jiras: [JIRA]
 }

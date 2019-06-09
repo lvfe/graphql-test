@@ -1,5 +1,9 @@
-# schema
 type User {
+    name: String,
+    soeid: String,
+    jiras: [JIRA]
+}
+input InputUser {
     name: String,
     soeid: String
 }

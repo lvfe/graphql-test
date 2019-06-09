@@ -16,7 +16,8 @@
   },
   "security": {
     "csrf": {
-      "enable": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
+      "ignore": "C:\\Users\\lenovo\\graphql\\config\\config.default.js",
+      "enable": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",
       "useSession": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",
       "ignoreJSON": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",
       "cookieName": "C:\\Users\\lenovo\\graphql\\node_modules\\egg-security\\config\\config.default.js",

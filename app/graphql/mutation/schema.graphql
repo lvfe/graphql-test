@@ -1,0 +1,4 @@
+type Mutation {
+    addUser(name: String, soeid: String):User
+    updateUser(_id:ID!, input: InputUser): User
+}

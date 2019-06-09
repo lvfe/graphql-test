@@ -1,0 +1,5 @@
+type JIRA {
+    jiraName: String
+    status: String
+    assignee: User
+}

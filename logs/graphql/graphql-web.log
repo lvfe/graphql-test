@@ -212,3 +212,45 @@ path: undefined
 pid: 9044
 hostname: DESKTOP-7GV4RCT
 
+2019-06-09 05:06:01,758 ERROR 2300 [-/::1/-/57ms POST /graphql?] nodejs.Error: Type "InputUser" not found in document.
+    at ASTDefinitionBuilder._resolveType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:134:11)
+    at ASTDefinitionBuilder.buildType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:218:79)
+    at ASTDefinitionBuilder._buildWrappedType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:227:24)
+    at C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:314:25
+    at C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:28:31
+    at Array.reduce (<anonymous>)
+    at keyValMap (C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:27:15)
+    at ASTDefinitionBuilder._makeInputValues (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:309:36)
+    at ASTDefinitionBuilder.buildField (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:250:37)
+    at C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:302:21
+    at C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:28:31
+    at Array.reduce (<anonymous>)
+    at keyValMap (C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:27:15)
+    at ASTDefinitionBuilder._makeFieldDefMap (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:299:49)
+    at fields (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:284:23)
+    at resolveThunk (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:370:40)
+
+pid: 2300
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 05:06:01,794 ERROR 2300 [-/::1/-/3ms POST /graphql?] nodejs.Error: Type "InputUser" not found in document.
+    at ASTDefinitionBuilder._resolveType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:134:11)
+    at ASTDefinitionBuilder.buildType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:218:79)
+    at ASTDefinitionBuilder._buildWrappedType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:227:24)
+    at C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:314:25
+    at C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:28:31
+    at Array.reduce (<anonymous>)
+    at keyValMap (C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:27:15)
+    at ASTDefinitionBuilder._makeInputValues (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:309:36)
+    at ASTDefinitionBuilder.buildField (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:250:37)
+    at C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:302:21
+    at C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:28:31
+    at Array.reduce (<anonymous>)
+    at keyValMap (C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:27:15)
+    at ASTDefinitionBuilder._makeFieldDefMap (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:299:49)
+    at fields (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:284:23)
+    at resolveThunk (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:370:40)
+
+pid: 2300
+hostname: DESKTOP-7GV4RCT
+
