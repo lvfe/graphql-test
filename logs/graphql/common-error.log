@@ -340,3 +340,161 @@ path: undefined
 pid: 9304
 hostname: DESKTOP-7GV4RCT
 
+2019-06-09 11:57:50,193 ERROR 14376 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14376
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:03:01,439 ERROR 14376 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14376
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:21:02,491 ERROR 14376 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14376
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:35:05,272 ERROR 14376 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14376
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:52:39,018 ERROR 3080 [-/::1/-/81ms POST /graphql?] nodejs.Error: "Result" defined in resolvers, but not in schema
+Error: "Result" defined in resolvers, but not in schema
+
+pid: 3080
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:56:54,221 ERROR 1992 [-/::1/-/52ms POST /graphql?] nodejs.Error: Type "Result" not found in document.
+    at ASTDefinitionBuilder._resolveType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:134:11)
+    at ASTDefinitionBuilder.buildType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:218:79)
+    at ASTDefinitionBuilder._buildWrappedType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:227:24)
+    at ASTDefinitionBuilder.buildField (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:248:18)
+    at C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:302:21
+    at C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:28:31
+    at Array.reduce (<anonymous>)
+    at keyValMap (C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:27:15)
+    at ASTDefinitionBuilder._makeFieldDefMap (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:299:49)
+    at fields (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:284:23)
+    at resolveThunk (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:370:40)
+    at defineFieldMap (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:532:18)
+    at GraphQLObjectType.getFields (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:506:44)
+    at typeMapReducer (C:\Users\lenovo\graphql\node_modules\graphql\type\schema.js:232:38)
+    at Array.reduce (<anonymous>)
+    at new GraphQLSchema (C:\Users\lenovo\graphql\node_modules\graphql\type\schema.js:122:28)
+
+pid: 1992
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:57:33,685 ERROR 17092 [-/::1/-/114ms POST /graphql?] nodejs.Error: Query.search defined in resolvers, but not in schema
+Error: Query.search defined in resolvers, but not in schema
+
+pid: 17092
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 15:48:17,697 ERROR 14376 nodejs.ClusterClientNoResponseError: client no response in 6873305ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (C:\Users\lenovo\graphql\node_modules\cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 14376
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 16:01:35,563 ERROR 17496 nodejs.TypeError: Cannot read property 'includes' of undefined
+    at res1.filter.jira (C:\Users\lenovo\graphql\app\graphql\user\resolver.js:39:58)
+    at Array.filter (<anonymous>)
+    at Promise.join.then (C:\Users\lenovo\graphql\app\graphql\user\resolver.js:39:29)
+    at runCallback (timers.js:810:20)
+    at tryOnImmediate (timers.js:768:5)
+    at processImmediate [as _immediateCallback] (timers.js:745:5)
+From previous event:
+    at search (C:\Users\lenovo\graphql\app\graphql\user\resolver.js:37:37)
+    at field.resolve (C:\Users\lenovo\graphql\node_modules\graphql-extensions\dist\index.js:140:26)
+    at resolveFieldValueOrError (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:531:18)
+    at resolveField (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:495:16)
+    at C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:364:18
+    at Array.reduce (<anonymous>)
+    at executeFields (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:361:42)
+    at executeOperation (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:289:122)
+    at executeImpl (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:154:14)
+    at Object.execute (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:131:35)
+    at C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:239:46
+    at Generator.next (<anonymous>)
+    at C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:3:12)
+    at execute (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:218:20)
+    at Object.<anonymous> (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:156:42)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:4:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 17496
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 16:02:59,333 ERROR 19608 nodejs.TypeError: Cannot read property 'includes' of undefined
+    at res1.filter.jira (C:\Users\lenovo\graphql\app\graphql\user\resolver.js:40:58)
+    at Array.filter (<anonymous>)
+    at Promise.join.then (C:\Users\lenovo\graphql\app\graphql\user\resolver.js:40:29)
+    at runCallback (timers.js:810:20)
+    at tryOnImmediate (timers.js:768:5)
+    at processImmediate [as _immediateCallback] (timers.js:745:5)
+From previous event:
+    at search (C:\Users\lenovo\graphql\app\graphql\user\resolver.js:37:37)
+    at field.resolve (C:\Users\lenovo\graphql\node_modules\graphql-extensions\dist\index.js:140:26)
+    at resolveFieldValueOrError (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:531:18)
+    at resolveField (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:495:16)
+    at C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:364:18
+    at Array.reduce (<anonymous>)
+    at executeFields (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:361:42)
+    at executeOperation (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:289:122)
+    at executeImpl (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:154:14)
+    at Object.execute (C:\Users\lenovo\graphql\node_modules\graphql\execution\execute.js:131:35)
+    at C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:239:46
+    at Generator.next (<anonymous>)
+    at C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:3:12)
+    at execute (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:218:20)
+    at Object.<anonymous> (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:156:42)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\lenovo\graphql\node_modules\apollo-server-core\dist\requestPipeline.js:4:58)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+
+pid: 19608
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 16:07:32,850 ERROR 10740 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:992:11)
+    at TCP.onread (net.js:618:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10740
+hostname: DESKTOP-7GV4RCT
+

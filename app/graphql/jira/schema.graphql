@@ -1,4 +1,4 @@
-type JIRA {
+type JIRA implements Task{
     jiraName: String
     status: String
     assignee: User

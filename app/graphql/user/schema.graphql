@@ -1,10 +1,13 @@
+
 type User {
-    name: String,
-    soeid: String,
-    jiras: [JIRA],
-    tfss: [TFS]
+    name: String
+    soeid: String
+    tasks: [Task]
 }
 input InputUser {
-    name: String,
+    name: String
     soeid: String
+}
+interface Task {
+    assignee: User
 }

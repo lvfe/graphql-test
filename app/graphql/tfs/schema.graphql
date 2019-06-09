@@ -1,4 +1,4 @@
-type TFS {
+type TFS implements Task{
     tfsName: String
     assignee: User
 }

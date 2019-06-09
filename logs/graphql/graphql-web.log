@@ -300,3 +300,36 @@ path: undefined
 pid: 9304
 hostname: DESKTOP-7GV4RCT
 
+2019-06-09 12:52:39,022 ERROR 3080 [-/::1/-/81ms POST /graphql?] nodejs.Error: "Result" defined in resolvers, but not in schema
+Error: "Result" defined in resolvers, but not in schema
+
+pid: 3080
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:56:54,227 ERROR 1992 [-/::1/-/52ms POST /graphql?] nodejs.Error: Type "Result" not found in document.
+    at ASTDefinitionBuilder._resolveType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:134:11)
+    at ASTDefinitionBuilder.buildType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:218:79)
+    at ASTDefinitionBuilder._buildWrappedType (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:227:24)
+    at ASTDefinitionBuilder.buildField (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:248:18)
+    at C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:302:21
+    at C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:28:31
+    at Array.reduce (<anonymous>)
+    at keyValMap (C:\Users\lenovo\graphql\node_modules\graphql\jsutils\keyValMap.js:27:15)
+    at ASTDefinitionBuilder._makeFieldDefMap (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:299:49)
+    at fields (C:\Users\lenovo\graphql\node_modules\graphql\utilities\buildASTSchema.js:284:23)
+    at resolveThunk (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:370:40)
+    at defineFieldMap (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:532:18)
+    at GraphQLObjectType.getFields (C:\Users\lenovo\graphql\node_modules\graphql\type\definition.js:506:44)
+    at typeMapReducer (C:\Users\lenovo\graphql\node_modules\graphql\type\schema.js:232:38)
+    at Array.reduce (<anonymous>)
+    at new GraphQLSchema (C:\Users\lenovo\graphql\node_modules\graphql\type\schema.js:122:28)
+
+pid: 1992
+hostname: DESKTOP-7GV4RCT
+
+2019-06-09 12:57:33,710 ERROR 17092 [-/::1/-/114ms POST /graphql?] nodejs.Error: Query.search defined in resolvers, but not in schema
+Error: Query.search defined in resolvers, but not in schema
+
+pid: 17092
+hostname: DESKTOP-7GV4RCT
+
